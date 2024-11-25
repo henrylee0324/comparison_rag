@@ -1,0 +1,5 @@
+numpy
+retrying
+python-dotenv
+openai
+scikit-learn
