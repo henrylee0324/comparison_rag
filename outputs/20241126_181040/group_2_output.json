@@ -1,0 +1,96 @@
+{
+    "query": "What happended to USA?",
+    "response": "The USA has faced numerous challenges recently, including the impact of the COVID-19 pandemic, which highlighted gaps in leadership and public health response. Early messages from the government downplayed the severity of the virus, leading to widespread transmission among Americans. In addition to health crises, issues related to racial discrimination have been brought to the forefront, with increased visibility of white supremacist propaganda and calls for addressing social injustices. Many Americans, especially marginalized communities, have expressed feelings of fear and insecurity about their safety and rights, prompting questions about the nation's commitment to liberty and justice for all. These elements reflect a broader context of uncertainty and division within the country.",
+    "chunks": [
+        {
+            "score": 0.820039772798731,
+            "metadata": {
+                "document_name": "444.txt",
+                "content": "c was\nrampaging through Asia, and then Europe.\nBut in an early vacuum of leadership at almost every government level, with the message from the White House that the\nvirus was not anything to worry about, Americans unwittingly spread the lethal virus to loved ones and strangers alike.\nThe U.S. squandered its early advantage. Roughly one year after the virus first came into existence, the country ha",
+                "chunk_id": 18,
+                "start": 4500
+            }
+        },
+        {
+            "score": 0.8181974704250371,
+            "metadata": {
+                "document_name": "300.txt",
+                "content": "ause we tend to stay quiet because we don't speak up as often as others, but we are not OK. We have lived in fear for so long. We love the United States, this is our home but now we don't feel safe.\"\n",
+                "chunk_id": 28,
+                "start": 7000
+            }
+        },
+        {
+            "score": 0.8153077175015851,
+            "metadata": {
+                "document_name": "493.txt",
+                "content": "e wealthy Americans cared about the welfare of their fellow Americans the trillions of dollars wasted slaughtering people in the Third World since 1945, the United States would be a paradise for all Americans to live decent lives and the world would be a safer and happier place. ",
+                "chunk_id": 94,
+                "start": 23500
+            }
+        },
+        {
+            "score": 0.8098109406250931,
+            "metadata": {
+                "document_name": "471.txt",
+                "content": "mation League found the distribution of white supremacist propaganda in the US increased nearly twofold in 2020 from the year before. \nBut the racial discrimination in the US is obviously not just a symptom of distress during the pandemic, it has deep roots. As such, people around the world cannot help but ask why the US should feel it is in a position to lecture other countries on human rights. \n",
+                "chunk_id": 10,
+                "start": 2500
+            }
+        },
+        {
+            "score": 0.8057703972718437,
+            "metadata": {
+                "document_name": "444.txt",
+                "content": "ast with his husband.\nThe virus shouldn't have been able to sneak up on the United States. The world's most powerful nation, historically among\nthe most successful at stymieing infectious illnesses, had ample lead time during which the deadly pandemic was\nrampaging through Asia, and then Europe.\nBut in an early vacuum of leadership at almost every government level, with the message from the White ",
+                "chunk_id": 17,
+                "start": 4250
+            }
+        },
+        {
+            "score": 0.8053316943569857,
+            "metadata": {
+                "document_name": "141.txt",
+                "content": "f on positivity finds herself wondering something she has never wondered before. Is America really a place of liberty and justice for all?\n\"I have doubt,\" she said.\n",
+                "chunk_id": 34,
+                "start": 8500
+            }
+        },
+        {
+            "score": 0.8051305387112585,
+            "metadata": {
+                "document_name": "444.txt",
+                "content": "l migration southward from the New York City area.\nWhile other countries instituted national lockdown orders to freeze citizens and the virus in place, the\nUnited States had only localized, and relatively lax, versions of such edicts. Americans responded by\nmoving more than ever.\nMcNally fled New York with husband Kirdahy because he had only three-quarters of a lung left and was\nterrified the viru",
+                "chunk_id": 111,
+                "start": 27750
+            }
+        },
+        {
+            "score": 0.8042150577753497,
+            "metadata": {
+                "document_name": "627.txt",
+                "content": "d. \"It doesn't have to be this way. It's a beautiful America, a blessed country. We shouldn't ruin it with these kinds of acts.\"",
+                "chunk_id": 22,
+                "start": 5500
+            }
+        },
+        {
+            "score": 0.804177526170434,
+            "metadata": {
+                "document_name": "471.txt",
+                "content": "p roots. As such, people around the world cannot help but ask why the US should feel it is in a position to lecture other countries on human rights. \nIt is high time the US fulfilled its own obligations to protect the rights of US citizens whatever their ethnicity and address the social injustices at home.",
+                "chunk_id": 11,
+                "start": 2750
+            }
+        },
+        {
+            "score": 0.8036132332265717,
+            "metadata": {
+                "document_name": "23.txt",
+                "content": "eeding,\" Meng said. \"We've been in pain and we've been screaming out for help.\"\nAnd the rest of America can no longer say we don't hear them.\n",
+                "chunk_id": 22,
+                "start": 5500
+            }
+        }
+    ]
+}

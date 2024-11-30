@@ -57,7 +57,10 @@ class Etl:
                 metadatas = self._chunking(content, txt_file)
                 for metadata in metadatas:
                     summary = self._get_summary(metadata["content"])
-                    content_with_summary = f"summary:\n summary \n\n content:\n {metadata['content']}"
+                    if self.use_summary:
+                        content_with_summary = f"summary:\n {summary} \n\n content:\n {metadata['content']}"
+                    else:
+                        content_with_summary = metadata['content']
                     embedding = self._get_embedding(content_with_summary)
                     chunks.append({
                         "embedding_id": self.embedding_id,
@@ -135,23 +138,9 @@ class Etl:
     
 if __name__ == "__main__":
     etl = Etl()
-    #etl.create_glossary_embeddings()
+    etl.create_glossary_embeddings()
     etl.create_document_embeddings()
 
 
 
     
-"""
-{
-embedding_id:
-summary,
-embedding:,
-metadata:
-    {
-    document_name:
-    content:,
-    chunk_id:,
-    start,
-    }
-}
-"""

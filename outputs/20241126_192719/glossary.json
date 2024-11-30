@@ -1,0 +1,95 @@
+{
+    "query": "What happended to USA?",
+    "chunks": [
+        {
+            "score": 0.7849858357994243,
+            "metadata": {
+                "document_name": "5.Glossary from CDC guide.txt",
+                "content": " they have evolved from the United States’ history of\nwhite supremacy. Because it is so normalized it can be hard to see, which only adds to its powerful hold.\nIn many ways, it is indistinguishable from what we might call U.S. culture or norms – a focus on\nindividuals over groups, for example, or an emphasis on the written word as a form of professional\ncommunication. But it operates in even more ",
+                "chunk_id": 174,
+                "start": 43500
+            }
+        },
+        {
+            "score": 0.7828855367208256,
+            "metadata": {
+                "document_name": "7.Glossary of psychology of diversity book_James Jones (2014).txt",
+                "content": ". Groups lagging in key social indicators are given an\nopportunity to be considered for admission or a job if their qualifications merit such\nconsideration. Such actions are designed to minimize discrimination but some people perceive\nthem as a reverse form of bias.\nAmerican\nOften used to mean U.S. citizens, but actually refers to all persons living in North, Central, and\nSouth America.\nAmericans ",
+                "chunk_id": 3,
+                "start": 750
+            }
+        },
+        {
+            "score": 0.7802589035923067,
+            "metadata": {
+                "document_name": "6.Glossary of race and racisms book_Golash Boza (2022).txt",
+                "content": " who had lived in the United States for at least two years were\neligible for citizenship.\nneoliberalism The ideology that open markets, liberalized trade, and privatization are the keys\nto economic success.\nnew racism An ideology in which it is not acceptable to make overtly racist statements, yet\nracial inequality persists.\nNuremberg Code Policy adopted by the U.S. Department of Defense in 1953 u",
+                "chunk_id": 61,
+                "start": 15250
+            }
+        },
+        {
+            "score": 0.7797014066623471,
+            "metadata": {
+                "document_name": "3. Anti-Hate Glossary.txt",
+                "content": " real problem affecting the entire country that everyone can help\nchange.\nThis document focuses on the experiences and treatment of individuals of Asian\ndescent living, working, and travelling in the U.S. For brevity, it will use the term “Asian\nAmerican” to refer to individuals of Asian descent in the U.S. regardless of citizenship.\nThis timeline of anti-Asian racism follows the evolution of yell",
+                "chunk_id": 24,
+                "start": 6000
+            }
+        },
+        {
+            "score": 0.7725682457867881,
+            "metadata": {
+                "document_name": "3. Anti-Hate Glossary.txt",
+                "content": ", hold compromising, patriotic allegiance to a country other than the\nUnited States.\nWhen it’s problematic: Asian Americans experience far more scrutiny than individuals\nof other backgrounds regarding their loyalty to the United States. This bias has led\nto false espionage charges and civil rights violations, the most egregious being the\ninternment of Japanese Americans during World War II.\nSee al",
+                "chunk_id": 79,
+                "start": 19750
+            }
+        },
+        {
+            "score": 0.771256235009846,
+            "metadata": {
+                "document_name": "5.Glossary from CDC guide.txt",
+                "content": "ted States today were considered “non-white” in previous eras, in U.S. Census data and in\nmass media and popular culture (for example, Irish, Italian, and Jewish people).\n- The way in which racial categorizations are enforced (the shape of racism) has also changed over\ntime. For example, the racial designation of Asian American and Pacific Islander changed four\ntimes in the 19th century. That is, ",
+                "chunk_id": 120,
+                "start": 30000
+            }
+        },
+        {
+            "score": 0.771178714943073,
+            "metadata": {
+                "document_name": "3. Anti-Hate Glossary.txt",
+                "content": "evel that\npermitted the passage of the Chinese Exclusion Act of 1882. Officially repealed in 1943,\nthis law banned Chinese individuals from entering the U.S.\nSince these early demonstrations of anti-Asian racism, stereotypes have continued to\nsubordinate Asian Americans to white Americans by manufacturing fear-based tropes or\nalienating cultural practices. While the 20th century saw the formation ",
+                "chunk_id": 27,
+                "start": 6750
+            }
+        },
+        {
+            "score": 0.7702485629375774,
+            "metadata": {
+                "document_name": "5.Glossary from CDC guide.txt",
+                "content": "r to acquire their land, which it does in\ncountless seen and unseen ways. These techniques are woven throughout the US’s national discourse at\nall levels of society. Manifest Destiny—that is, the US’s divinely sanctioned inevitability—is like a\ncomputer program always operating unnoticeably in the background. In this program, genocide and land\ndispossession are continually both justified and denie",
+                "chunk_id": 149,
+                "start": 37250
+            }
+        },
+        {
+            "score": 0.7702465884055811,
+            "metadata": {
+                "document_name": "7.Glossary of psychology of diversity book_James Jones (2014).txt",
+                "content": " U.S. Supreme Court\nin 1944. In 1988 Congress passed and President Ronald Reagan signed legislation that\napologized for the internment, stating that government actions were based on “race prejudice,\nwar hysteria, and a failure of political leadership.” A total of $1.6 billion in reparations were later\ndisbursed by the U.S. government to surviving internees and their heirs.\nExecutive Order 9981\nSig",
+                "chunk_id": 84,
+                "start": 21000
+            }
+        },
+        {
+            "score": 0.7690998962864053,
+            "metadata": {
+                "document_name": "3. Anti-Hate Glossary.txt",
+                "content": "ing the\nU.S.-China relationship and COVID-19 and increased violence against Asian Americans\nreveal a return to fear-based, anti-Asian hate.\n\n4\n\nCommittee of 100’s Glossary of Anti-Asian Terms and Tropes 2022\n\n\fVersions of yellow peril have shifted with political, economic, and societal changes,\ncharacterizing Asian Americans as immoral and dangerous in one instance and meek\nand robotic in another.",
+                "chunk_id": 29,
+                "start": 7250
+            }
+        }
+    ]
+}

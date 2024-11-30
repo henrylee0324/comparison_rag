@@ -1,0 +1,16 @@
+{
+    "group_1": {
+        "group_name": "Documents before 2022",
+        "documents": [
+            "1.txt",
+            "2.txt",
+            "3.txt",
+            "4.txt",
+            "5.txt"
+        ]
+    },
+    "group_2": {
+        "group_name": "Documents from 2022 and after",
+        "documents": []
+    }
+}

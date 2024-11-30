@@ -1,0 +1,96 @@
+{
+    "query": "What problem has happened?",
+    "response": "The problem mentioned is primarily related to the impact of a pandemic, which has led to approximately 2 million Americans being infected and over 110,000 deaths. This situation has also highlighted and exacerbated long-standing issues in the United States, such as societal divisiveness, economic polarization, racial discrimination, and inadequate protections for vulnerable populations. The call for acknowledgment and dialogue around these issues is emphasized as crucial for finding solutions and moving forward.",
+    "chunks": [
+        {
+            "score": 0.7800722478276323,
+            "metadata": {
+                "document_name": "595.txt",
+                "content": " created the problem we face now, we'll never get past them.\n\n\"Reporting on a story like this, there is a lot defensiveness from people, sort of like, 'Hey, I didn't do that.' And if that's your immediate reaction, what you're doing is closing your eyes to just what the situation is and how it can be changed,\" Jervis said. \"The more people can acknowledge it and talk about it, we can come up with ",
+                "chunk_id": 23,
+                "start": 5750
+            }
+        },
+        {
+            "score": 0.7746847257008125,
+            "metadata": {
+                "document_name": "595.txt",
+                "content": "yes to just what the situation is and how it can be changed,\" Jervis said. \"The more people can acknowledge it and talk about it, we can come up with actual solutions.\n\n\"But if there's a denial that it even exists, we're all in trouble.\"\n",
+                "chunk_id": 24,
+                "start": 6000
+            }
+        },
+        {
+            "score": 0.7714869665329526,
+            "metadata": {
+                "document_name": "109.txt",
+                "content": "see something wrong we should say something and do something about it.\nThere are knots that need to be untied and grudges need to be settled, we must keep on talking.\n",
+                "chunk_id": 43,
+                "start": 10750
+            }
+        },
+        {
+            "score": 0.7704479510915145,
+            "metadata": {
+                "document_name": "60.txt",
+                "content": " in to be mine.\n\nAt the end of our conversation, there was a brief silence, and then a woman stepped forward. She said quietly: \"This has happened to me too. People said bad things to me, too, because of virus.\" The manager, who had been profusely apologizing, stopped. Her face softened to sadness.\n\n\"Customers come in and ask me again and again, am I Chinese, have I been to China, do I have the vi",
+                "chunk_id": 23,
+                "start": 5750
+            }
+        },
+        {
+            "score": 0.7702938853356256,
+            "metadata": {
+                "document_name": "604.txt",
+                "content": "viously, that's not happening. And it's not happening at an accurate enough level.\"",
+                "chunk_id": 16,
+                "start": 4000
+            }
+        },
+        {
+            "score": 0.7692469318312738,
+            "metadata": {
+                "document_name": "60.txt",
+                "content": "y, my voice cracking, I said: \"I just came back from China in January. If you're scared of me, get up and leave.\"\n\nThe technician went silent. The manager, who had been listening nearby, ran over to intervene. When I looked up, I realized everyone in the salon had been listening. I turned to the woman on my right, then to the other workers who were to my left. Each person I turned to looked away. ",
+                "chunk_id": 5,
+                "start": 1250
+            }
+        },
+        {
+            "score": 0.7691744340793437,
+            "metadata": {
+                "document_name": "58.txt",
+                "content": "wing had been going pretty well until the 5-year-old knocked the sewing machine on the floor. Her husband seems to have fixed it. She'll know tonight when she picks it\nback up, once the kids are in bed.\n-- Campbell Robertson\nNorman, Okla.\nPolice Officer Chris Allison pulled over a red Chrysler 300 sedan, approached from the passenger side and asked the driver for his license and insurance. The man",
+                "chunk_id": 37,
+                "start": 9250
+            }
+        },
+        {
+            "score": 0.767355911701761,
+            "metadata": {
+                "document_name": "433.txt",
+                "content": "ble response to the pandemic has not only caused the tragedy in which about 2 million Americans became infected with the virus and more than 110,000 have died from it, but also caused the exposure and deterioration of the long-existing problems within the United States, such as a divisive society, the polarization between the rich and the poor, racial discrimination, and the inadequate protection ",
+                "chunk_id": 4,
+                "start": 1000
+            }
+        },
+        {
+            "score": 0.7654438813222246,
+            "metadata": {
+                "document_name": "576.txt",
+                "content": "e better next time,\" she said.\n",
+                "chunk_id": 28,
+                "start": 7000
+            }
+        },
+        {
+            "score": 0.7643108539444659,
+            "metadata": {
+                "document_name": "630.txt",
+                "content": " no matter what,\" he said. \"The reason why I spoke out was just to bring awareness and just kind of make people realize that things aren't going well.\"",
+                "chunk_id": 10,
+                "start": 2500
+            }
+        }
+    ]
+}

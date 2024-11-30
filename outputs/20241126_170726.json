@@ -1,0 +1,96 @@
+{
+    "query": "What happended to USA?",
+    "response": "The United States has been grappling with significant issues surrounding racism and violence, particularly against Asian Americans, exacerbated by the COVID-19 pandemic. This has led to a growing movement demanding awareness and action against anti-Asian hate, highlighted by recent incidents of violence and scapegoating. Community leaders have pointed out that the prejudice against Asians has deep historical roots and has been intensified by political rhetoric. Events like recent protests serve as a response to these challenges, calling for unity and a concerted effort to combat hate and violence.",
+    "chunks": [
+        {
+            "score": 0.7827347188609071,
+            "metadata": {
+                "document_name": "4.txt",
+                "content": "he United States's deep-rooted prejudice against Asians cannot be solved by that alone.\n\"This attitude of Asians being looked down on, taken advantage of, treated unfairly have been here since my grandfather came to work on the railroad in the early 1900s,\" Huang said.\nGrace Chan McKibben, executive director of CBCAC, said Saturday's protest was part of a \"growing movement of Asian Americans deman",
+                "chunk_id": 10,
+                "start": 2500
+            }
+        },
+        {
+            "score": 0.7749542459535363,
+            "metadata": {
+                "document_name": "5.txt",
+                "content": "said.\n\"Folks are indeed worried,\" Chan McKibben said. \"People look at us with some level of suspicion, like as if we are a walking virus. The former president definitely didn't help with his rhetoric.\"\nShe added, \"But that does not mean that we have to live in fear. We have to live instead in strength and in power.\"\n",
+                "chunk_id": 18,
+                "start": 4500
+            }
+        },
+        {
+            "score": 0.7723857557080295,
+            "metadata": {
+                "document_name": "4.txt",
+                "content": " many felt caused them to be scapegoated. In recent months, there has also been a wave of reported violence against Asian Americans across the U.S., including an alleged attack last weekend in Chicago that remains under police investigation.\nThe rally began with an acknowledgment of three Asian American men who were killed in Chicago last year. They were Weizhong Xiong, 38, and Huayi Bian, 37, who",
+                "chunk_id": 7,
+                "start": 1750
+            }
+        },
+        {
+            "score": 0.7698408329202866,
+            "metadata": {
+                "document_name": "5.txt",
+                "content": "d amid the pandemic, they have felt like scapegoats for the coronavirus, Wu said.\n\"Our students feel very traumatized right now,\" Wu said. \"They come to America hoping for new life, and especially during the pandemic they've been faced with racist incidents. ... Whether or not they've been a victim of crime, many of them feel just the shame of being targeted by others.\"\nChicago police 9th District",
+                "chunk_id": 13,
+                "start": 3250
+            }
+        },
+        {
+            "score": 0.7679274919487451,
+            "metadata": {
+                "document_name": "4.txt",
+                "content": "ant to show our support, especially since what happened to the people in Georgia.\"\nThe March 16 massacre in Georgia deepened an old wound for the Asian American community already grappling with a year of fear following the coronavirus pandemic, which many felt caused them to be scapegoated. In recent months, there has also been a wave of reported violence against Asian Americans across the U.S., i",
+                "chunk_id": 6,
+                "start": 1500
+            }
+        },
+        {
+            "score": 0.7670475575847204,
+            "metadata": {
+                "document_name": "5.txt",
+                "content": " increased racism. But anti-Asian prejudice isn't new either, he said. Now, as people are finally listening, Chicago and the rest of the U.S. must come together to condemn what he described as an \"act of terrorism.\"\n\"This is an issue that has been affecting the Asian American community for a long time,\" Sigcho-Lopez said. \"These are the consequences of the dehumanization here of people of color, a",
+                "chunk_id": 7,
+                "start": 1750
+            }
+        },
+        {
+            "score": 0.7670257335468512,
+            "metadata": {
+                "document_name": "3.txt",
+                "content": "s felt the same way.\nIn the top 10 states with the largest Asian American voting populations, Trump in 2016 won only Texas and\nFlorida. But the ultimate swing state in this year's election, Ramakrishnan said, is unlikely to be determined by\nthe 3.6% of Florida voters who are Asian American given how large the state is.\nThat means in smaller states like Nevada, the deeper concentration of eligible ",
+                "chunk_id": 15,
+                "start": 3750
+            }
+        },
+        {
+            "score": 0.7669909847373919,
+            "metadata": {
+                "document_name": "4.txt",
+                "content": "1900s,\" Huang said.\nGrace Chan McKibben, executive director of CBCAC, said Saturday's protest was part of a \"growing movement of Asian Americans demanding that our voices be heard.\" The Georgia shootings have only \"heightened the nation's awareness of the racism and sexism that our community has been all too familiar with,\" she added.\nAARP Illinois executive council member Nancy Chen led the crowd",
+                "chunk_id": 11,
+                "start": 2750
+            }
+        },
+        {
+            "score": 0.764300534186005,
+            "metadata": {
+                "document_name": "4.txt",
+                "content": "plaza that morning when they noticed a sign advertising the rally plastered on a restaurant. They walked over to the tables set up on the other side of the \"Chinese in America\" mural and grabbed some posters.\n\"We decided to join because there aren't many rallies against Asian hate, and it just needs to be more of a thing,\" Moy said.\nHer younger cousin Jason added, \"My side of the family is actuall",
+                "chunk_id": 4,
+                "start": 1000
+            }
+        },
+        {
+            "score": 0.7635525104413622,
+            "metadata": {
+                "document_name": "5.txt",
+                "content": "ide to exercise or head to work. Small business owners are closing shop earlier and earlier.\n\"We've got to work together to stop the crime, to stop the violence and stop the anti-Asian hate crime,\" Liu said. \"In the past year, there is increasing number of hate crimes and criminal activities and killing, which (is) not only a threat to our safety, life, but also mental health.\"\nLiu and other China",
+                "chunk_id": 3,
+                "start": 750
+            }
+        }
+    ]
+}
