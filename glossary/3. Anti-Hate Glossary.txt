@@ -1,0 +1,637 @@
+We Belong
+
+TM
+
+A Glossary of Anti-Asian Terms and Tropes
+
+Committee of 100’s Glossary of Anti-Asian Terms and Tropes 2022
+
+1
+
+Table of Contents
+Introduction .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 4
+Category Descriptions .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 6
+Perpetual Foreigner  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 6
+Deviant  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 6
+Model Minority  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 7
+Terms & Tropes  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 8
+Asian Driver / Chinese Driver  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 9
+Asian Woman in the Service Industry .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 10
+Banana / Twinkie .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 10
+China Virus / China Flu / Kung Flu  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 11
+Chinaman  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 11
+Chinese Fire Drill  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 12
+Chinese Restaurant Syndrome  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 13
+Ching Chong / Chink  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 14
+Discipline  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 14
+Disease  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 15
+Dragon Lady .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 15
+Dual Loyalty  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 16
+Eating Dirty Animals Or Household Pets  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 16
+Exotic  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 17
+Flood  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 17
+Foreign Born  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 18
+Fu Manchu  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 19
+“Go Back To Where You Came From”  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 20
+Language Ability  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 20
+
+2
+
+Committee of 100’s Glossary of Anti-Asian Terms and Tropes 2022
+
+Lotus Blossom / China Doll  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 21
+Natural Ability In Stem Fields And Music  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 22
+Oriental  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 23
+Rice Burner / Ricer / Rice Machine  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 23
+Robotic  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 24
+Sick Man Of Asia  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 25
+Slant / Slant-Eyes / Slope  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 26
+Spies  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 27
+Threat To The Workforce  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 27
+Tiger Mom  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 28
+Whiteness  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 29
+Zipperhead  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 29
+
+Committee of 100’s Glossary of Anti-Asian Terms and Tropes 2022
+
+3
+
+Introduction
+Racism toward people of Asian heritage in the United States manifests itself in a
+wide range of words, actions, and tropes. The rhetoric surrounding the origins of the
+COVID-19 virus fueled a surge of discrimination and hate targeting individuals of Asian
+descent, but these attitudes are not new. Racism is not unique to the U.S. or Asian
+Americans, but it is a real problem affecting the entire country that everyone can help
+change.
+This document focuses on the experiences and treatment of individuals of Asian
+descent living, working, and travelling in the U.S. For brevity, it will use the term “Asian
+American” to refer to individuals of Asian descent in the U.S. regardless of citizenship.
+This timeline of anti-Asian racism follows the evolution of yellow peril, the idea that
+individuals of Chinese or broader Asian descent are inherently threatening. The concept
+originated with the 19th century Chinese laborers whom white Americans feared
+would lower wages and take jobs. These fears morphed into the perception of Chinese
+immigrants as dangerous, manipulative, and violent, dehumanizing them to a level that
+permitted the passage of the Chinese Exclusion Act of 1882. Officially repealed in 1943,
+this law banned Chinese individuals from entering the U.S.
+Since these early demonstrations of anti-Asian racism, stereotypes have continued to
+subordinate Asian Americans to white Americans by manufacturing fear-based tropes or
+alienating cultural practices. While the 20th century saw the formation and exploitation
+of softer tropes like the model minority, recent surges in racist language surrounding the
+U.S.-China relationship and COVID-19 and increased violence against Asian Americans
+reveal a return to fear-based, anti-Asian hate.
+
+4
+
+Committee of 100’s Glossary of Anti-Asian Terms and Tropes 2022
+
+Versions of yellow peril have shifted with political, economic, and societal changes,
+characterizing Asian Americans as immoral and dangerous in one instance and meek
+and robotic in another. To reflect these variations, this glossary divides terms into three
+major subcategories: perpetual foreigner, deviant, and model minority. Each term is
+tagged with one or more of these subcategories or with “other.” Because the terms and
+tropes all grow out of the yellow peril concept, it is not a tag.
+Tags also include “microaggressions” and “explicit aggressions.” Microaggressions
+are everyday statements and actions rooted in implicit biases that subtly and often
+unintentionally otherize. Explicit aggressions, on the other hand, are overtly and
+deliberately racist. Because microaggressions often appear innocent, they leave many
+Asian Americans unsure how to react. It is particularly important to recognize these
+microaggressions to ultimately deconstruct Asian stereotypes.
+This glossary is intended to serve as a guide to help conscientious communicators spot
+and eliminate racist language and imagery. It is not exhaustive. It provides examples
+that demonstrate where and how problematic terms and tropes originated so users
+can apply the same criteria to the language they encounter every day. This document
+focuses specifically on racist terms that have grown out of U.S.-China policy and history,
+but many of the stereotypes affect most Asian Americans.
+
+Committee of 100’s Glossary of Anti-Asian Terms and Tropes 2022
+
+5
+
+Category Descriptions
+Perpetual Foreigner
+The perpetual foreigner is one of the most pervasive anti-Asian stereotypes in the
+United States today. This trope treats Asian Americans as unwelcome foreigners
+and excludes them from the American identity. By painting Asians as inherently unAmerican, this stereotype creates a homogeneous – and potentially dangerous – image
+of who belongs in the U.S. Over the years, events such as World War II, the rise of the
+Japanese auto industry, the 9/11 attacks, and, most recently, the COVID-19 pandemic
+renewed the perceived threat of Asian Americans.
+The perpetual foreigner trope appears in many forms. It instills feelings of alienation and
+manufactures divisions between Asian Americans and their fellow nationals. This type of
+discrimination causes mental and physical anguish and normalizes racist divisions and
+stereotypes. Some Asian Americans internalize this racial hierarchy and alter their selfperception to conform with the perpetual foreigner trope. Young Asian Americans, in
+particular, may feel pressure to either embrace their cultural background or reject it and
+assimilate into white American society.
+
+Deviant
+Gendered stereotypes present people of Asian descent as an aberrant threat. Harmful
+tropes objectify Asian women as submissive yet overly sexual. These images and ideas
+lead directly to racially motivated sexual violence against Asian women.
+Even before the Chinese Exclusion Act, the U.S. enacted the Page Act of 1875, which
+institutionalized racism by outlawing immigration by individuals from “any Oriental
+country” contracted for “labor” or “lewd and immoral purposes.” The law cloaked an
+otherwise unlawful immigration prohibition on workers in a baseless moral argument.
+Its enforcement considered almost all Chinese women prostitutes, and the rhetoric
+
+6
+
+Committee of 100’s Glossary of Anti-Asian Terms and Tropes 2022
+
+that supported the law painted Chinese women as disease-carrying homewreckers who
+threatened white marriage and lineage.
+The intersection of racism and misogyny present in stereotypes of Asian American
+women make them particularly dangerous. Women and girls of Asian descent report
+more than twice as many hate incidents as their male counterparts.
+Nevertheless, Asian men are not immune to gendered racism. Historically, film and
+television depicted Asian men as villains or desexualized and effeminate secondary
+characters. While more contemporary pop culture has made an effort to consider Asian
+men as desirable leading characters, the stereotype of the meek and unattractive nerd
+persists.
+
+Model Minority
+The model minority myth characterizes Asian Americans as a polite, law-abiding group
+who have achieved a higher level of success than other racial minority groups because
+of their “pull-yourselves-up-by-your-bootstraps” immigrant mentality. These stereotypes
+developed in the period following World War II and into the 1960s to push back against
+the Civil Rights Movement. African Americans were organizing and protesting the
+widespread structural racism in the U.S., and opponents of the Civil Rights Movement
+portrayed Asian Americans as a model of achievement who succeeded because they
+worked harder. Rather than try to change the existing system, Asian Americans worked
+within it. Their logic followed that Black Americans struggled because of their own
+culture, rather than policies that specifically hurt minorities. This framework aims to
+preserve the status quo by drawing attention away from the institutional racism.
+In contemporary context, these stereotypes discount the income inequality of Asian
+Americans, which is the greatest of any racial group in the U.S., and contributes to
+the myth that Asian Americans are capable technocrats but not leaders. Further, it
+promotes the idea that anti-Asian racism is no longer present in America.
+
+Committee of 100’s Glossary of Anti-Asian Terms and Tropes 2022
+
+7
+
+Terms &
+Tropes
+
+8
+
+Committee of 100’s Glossary of Anti-Asian Terms and Tropes 2022
+
+A
+ASIAN/CHINESE DRIVER:
+A term used to describe someone who is bad at driving.
+Why it’s racist: This furthers the perpetual foreigner stereotype in reference to an
+activity often considered very American since individual use of automobiles first took
+hold in the U.S. Additionally, around the time of the Chinese Exclusion Act, the word
+“Chinese” entered the general lexicon as a pejorative descriptor of anything of poor
+quality.
+This stereotype is statistically inaccurate. Multiple studies by insurance companies and
+car safety organizations have found that Asian drivers experience fewer accidents on
+average than the general population.
+Perpetual Foreigner
+
+Committee of 100’s Glossary of Anti-Asian Terms and Tropes 2022
+
+9
+
+ASIAN WOMEN IN THE SERVICE INDUSTRY:
+Despite their representation in a wide range of professional occupations, media and
+entertainment often portray women of Asian descent in service worker jobs, often in
+nail or massage salons.
+When and why it can be problematic: The Asian American community makes up 10
+percent of U.S. workers in personal care services and 70 percent of people who provide
+nail services, but media portrayals often hypersexualize these women or insinuate
+that they are providing sexual services in secret. These images further the type of
+discrimination against Asian women perpetrated by the Page Act. They present the idea
+of Asian women serving as prostitutes as commonplace and foment the type of violence
+that took place in the March 2021 shooting in Atlanta.
+Deviant
+
+B
+BANANA / TWINKIE:
+A term used to describe an Asian American who is perceived as culturally American.
+Why it’s racist: It implies that an individual’s outward appearance or perceived
+ethnic heritage should define their beliefs or culture. It is also used to describe Asian
+Americans as “practically white,” meaning “’yellow’ (Asian) on the outside, white on the
+inside” and can further the idea that the goal for immigrants is to abandon their culture
+and become as white as possible.
+Perpetual Foreigner
+10
+
+Microaggression
+
+Committee of 100’s Glossary of Anti-Asian Terms and Tropes 2022
+
+C
+CHINA VIRUS/CHINA FLU/KUNG FLU:
+Derogatory terms used to describe COVID-19 that assign blame for the virus to China
+and ethnic Chinese individuals.
+Why it’s racist: These terms sanction place- and person-based language to describe a
+disease. It harkens back to the early anti-Asian sentiment that characterized people from
+China as diseased.
+See also ‘Disease’, ‘Sick Man of Asia’
+Perpetual Foreigner
+
+Explicit Aggression
+
+CHINAMAN:
+A derogatory term used to describe a Chinese American.
+Why it’s racist: This term was used during the Gold Rush and railway- construction eras
+in western North America, when discrimination against individuals of Chinese descent
+was rampant.
+Perpetual Foreigner
+
+Explicit Aggression
+
+Committee of 100’s Glossary of Anti-Asian Terms and Tropes 2022
+
+11
+
+CHINESE FIRE DRILL:
+A situation that is chaotic or confusing, possibly due to poor or misunderstood
+instructions or incompetence; often refers to a specific car prank where passengers
+and the driver switch positions at a stoplight.
+Why it’s racist: Around the time of the Chinese Exclusion Act, the word “Chinese”
+entered the general lexicon as a pejorative descriptor of anything confusing or of poor
+quality. It regained strength during the Vietnam and Korean Wars. “Chinese Fire Drill”
+itself is thought to have evolved from a specific technique used on British ships with
+Chinese soldiers.
+Other
+
+12
+
+Committee of 100’s Glossary of Anti-Asian Terms and Tropes 2022
+
+CHINESE RESTAURANT SYNDROME:
+A mythical illness attributed to eating Chinese food that contains monosodium
+glutamate (MSG).
+Why it’s racist: U.S. Food and Drug Administration experiments have found no causal
+effect between MSG and reported potential symptoms. A wide range of foods contain
+MSG. It occurs naturally in tomatoes, mushrooms, and parmesan cheese, and it is
+added to a wide range of processed foods, including ranch dressing and flavored
+snack foods like chips and pretzels. The idea that Chinese food makes people ill is an
+extension of the stereotypes that portray people of Chinese descent as dangerous.
+Perpetual Foreigner
+
+Committee of 100’s Glossary of Anti-Asian Terms and Tropes 2022
+
+13
+
+CHING CHONG/CHINK:
+A derogatory term to describe someone of Chinese or Asian descent.
+Why it’s racist: The term uses Western phonetic perceptions of the Chinese language
+to onomatopoetically mock individuals of Chinese descent.
+Other
+
+Explicit Aggression
+
+D
+DISCIPLINE:
+As part of the model minority trope, people of Asian heritage are often portrayed as
+having a strong work ethic.
+Why it’s problematic: This trait and the model minority myth it supports erase
+individuality, obscure racism, and dehumanize Asians. They treat Asian Americans as
+a monolith whose perceived success in the U.S. disproves the existence of anti-Asian
+racism. These stereotypes overlook the wide range of Asian experiences in the U.S.
+On a practical level, the model minority myth can prevent Asian children from receiving
+necessary help and individual attention from teachers and others who, due to implicit
+bias, expect these students to excel independently and more easily than their peers.
+In the workplace, this stereotype contributes to the “bamboo ceiling,” which maintains
+Asian employees are hardworking but ultimately lack the leadership skills to reach
+executive positions.
+See also ‘Robotic’
+Model Minority
+14
+
+Microaggression
+
+Committee of 100’s Glossary of Anti-Asian Terms and Tropes 2022
+
+DISEASE:
+Examples: “You brought coronavirus here.” “All diseases come from China.”
+Why these examples are racist: Asian Americans have long been scapegoats for the
+spread of disease. Often based on fear and misdirected anger, these explicit aggressions
+intentionally attack and dehumanize Asian Americans. They reinforce the “perpetual
+foreigner” stereotype and encourage violent discrimination.
+See also ‘China Virus’, ‘Sick Man of Asia’
+Perpetual Foreigner
+
+Explicit Aggression
+
+DRAGON LADY:
+A domineering, deceitful, hypersexual, manipulative woman of Asian descent.
+Why it’s racist: This term elicits images of a dangerous woman who breathes fire. It
+dehumanizes women as fire-breathing animals who can use magical powers to control
+people, especially men who might appear physically stronger. The term grew out of a
+character in a comic strip in the 1930s. The stereotype that preceded and inspired this
+term was often used to justify anti-Asian laws like the Page Act.
+Deviant
+
+Committee of 100’s Glossary of Anti-Asian Terms and Tropes 2022
+
+15
+
+DUAL LOYALTY:
+An assumption that Americans with ancestry in certain countries, especially those who
+are foreign-born, hold compromising, patriotic allegiance to a country other than the
+United States.
+When it’s problematic: Asian Americans experience far more scrutiny than individuals
+of other backgrounds regarding their loyalty to the United States. This bias has led
+to false espionage charges and civil rights violations, the most egregious being the
+internment of Japanese Americans during World War II.
+See also ‘Spies’
+Perpetual Foreigner
+
+E
+EATING DIRTY ANIMALS OR HOUSEHOLD PETS:
+A stereotype that Chinese people eat diseased and dirty animals or household pets.
+Rooted in late 19th-century media representations of Chinese eating rats, more recent
+versions of this stereotype surround allegations that COVID-19 originated in bats eaten
+by Chinese people.
+Why it’s racist: This stereotype generalizes people of Chinese descent, often mistakenly,
+and promotes otherizing. It disparages Chinese culture through an ethnocentric lens.
+Linking this stereotype to disease also scapegoats Chinese Americans and encourages
+people to treat them with derision or even violence.
+Perpetual Foreigner
+16
+
+Committee of 100’s Glossary of Anti-Asian Terms and Tropes 2022
+
+EXOTIC:
+Not white, mysterious.
+Why it’s racist: When used to describe a person, food, or culture, it otherizes and
+fetishizes them and continues the stereotype of the perpetual foreigner.
+Perpetual Foreigner
+
+F
+FLOOD:
+An overpowering overabundance; often used to derogatorily describe immigrants.
+Why and when it’s problematic: Water-focused metaphors such as a “flood of Chinese
+people” or a “torrent of mud,” in reference to immigrants, have often been used in
+yellow peril rhetoric.
+Perpetual Foreigner
+
+Explicit Aggression
+
+Committee of 100’s Glossary of Anti-Asian Terms and Tropes 2022
+
+17
+
+FOREIGN BORN:
+Examples: “Where are you really from?” “Where is your family from?” “How long have
+you been in the U.S.?”
+Why these examples are problematic: These microaggressions usually emerge from
+genuine curiosity about a person’s background. However, by questioning a person’s
+origin or searching for a specific answer, these seemingly innocent questions imply that
+Asian Americans are inherently foreign, and they perpetuate race-based ideas about
+American identity. The accumulation of these and other microaggressions instills feelings
+of alienation while promoting the “perpetual foreigner” trope that bars Asian people
+from full participation in U.S. society. They can lead to more explicit or even violent acts
+of racism.
+See also ‘Dual Loyalty’, ‘“Go back to where you came from.”’, ‘Language Ability’
+Perpetual Foreigner
+
+18
+
+Microaggression
+
+Committee of 100’s Glossary of Anti-Asian Terms and Tropes 2022
+
+FU MANCHU:
+A villain of Chinese ethnicity, specifically a character representing the devil; the
+personification of yellow peril.
+When and why it’s problematic: The character himself is built on the concept that
+Chinese men have secret or illicit powers that allow them to overpower or trick victims.
+Watch for altered or shortened versions, such as “Flu Manchu,” which is a form of
+blaming COVID on individuals of Chinese descent.
+Perpetual Foreigner
+
+Committee of 100’s Glossary of Anti-Asian Terms and Tropes 2022
+
+19
+
+G
+“GO BACK TO WHERE YOU CAME FROM”:
+Related: “You don’t belong here.”
+Why these examples are racist: These explicit aggressions aim to attack and alienate
+people of color and immigrants. Usually stemming from fear of a perceived threat and
+subsequent, misplaced blame on a marginalized group, this xenophobia often targets
+people who call America home and may have generations of family history in the U.S.
+These examples reinforce the “perpetual foreigner” stereotype and encourage violent
+discrimination.
+See also ‘Dual Loyalty’, ‘Foreign Born’
+Perpetual Foreigner
+
+Explicit Aggression
+
+L
+LANGUAGE ABILITY:
+Examples: “You speak English so well.” “Say something in Chinese.”
+Why these examples are problematic: While often intended as praise or derived from
+genuine curiosity, these microaggressions imply that Asian Americans are inherently
+foreign. They condescend to and marginalize people who may be native English speakers
+or who have no background in the Chinese language. This alienation reinforces the
+
+20
+
+Committee of 100’s Glossary of Anti-Asian Terms and Tropes 2022
+
+“perpetual foreigner” trope, normalizes prejudice, and may even lead to more explicit
+and violent demonstrations of racism.
+See also ‘Dual Loyalty’, ‘Foreign Born’
+Perpetual Foreigner
+
+Microaggression
+
+LOTUS BLOSSOM/CHINA DOLL:
+A meek, submissive, hyperfeminine, alluring woman of Asian descent, usually appearing
+physically young; opposite of “dragon lady” yet still hypersexual.
+Why it’s racist: It fetishizes women of Asian descent and treats them like objects or
+children. The stereotypes that preceded and inspired this term were often used to
+justify anti-Asian laws like the Page Act.
+Deviant
+
+Committee of 100’s Glossary of Anti-Asian Terms and Tropes 2022
+
+21
+
+N
+NATURAL ABILITY IN STEM FIELDS AND MUSIC:
+Asians are naturally better at math, music, computer science, and other STEM fields.
+Why it’s problematic: This trait is part of the model minority myth, which dehumanizes
+people of Asian descent by treating them as a monolith stripped of individuality.
+On a practical level, the model minority myth can prevent Asian children from
+experiencing the same learning opportunities as other children. This implicit bias can
+lead educators to overlook these students’ other interests or ignore their individual
+needs.
+Model Minority
+
+22
+
+Microaggression
+
+Committee of 100’s Glossary of Anti-Asian Terms and Tropes 2022
+
+O
+ORIENTAL:
+A condescending overgeneralization of people from the East. It is often considered a
+slur, similar to words like “colored” or “Negro.”
+When and why it’s racist: As the academic opposite of occidental, the term is vague
+but not problematic; etymologically, it refers to everything east of Rome or Europe.
+However, in its history as the colonial opposite of occidental, the term otherizes people
+of Asian descent as non-European or non-white and lumps together a wide range of
+cultures, each with their own traditions, histories, and beliefs. The term is generally
+more appropriate as a descriptor of objects (e.g., an oriental rug) than of people.
+Perpetual Foreigner
+
+R
+RICE BURNER/RICER/RICE MACHINE:
+A derogatory term used to describe motor vehicles made in East Asian countries.
+Why it’s racist: The term originated to describe automobiles made in Japan and
+expanded to include any motor vehicle made in Asia as a comparison to those made
+by the “Big Three” American car makers. It harkens back to the idea that items made in
+Asia or China are inferior by nature.
+Perpetual Foreigner
+
+Explicit Aggression
+Committee of 100’s Glossary of Anti-Asian Terms and Tropes 2022
+
+23
+
+ROBOTIC:
+Asian musicians, athletes, writers, doctors, and other professionals of Asian descent
+perform with robotic perfection and efficiency.
+Why it’s problematic: This trait and the model minority myth it supports treat people
+of Asian descent as a monolith, portraying them as cold and uncreative. This association
+with robots also links to tropes where the “future” is represented as Asian. These ideas
+originate in American fears of loss of power, particularly when it came to technological
+development in the late 20th century.
+On a practical level, the model minority myth drives implicit biases that prevent Asian
+children from getting necessary help and exclude Asian professionals from managerial
+and executive roles due to their perceived lack of creativity and leadership skills, as part
+of the “bamboo ceiling.”
+See also ‘Discipline’
+Model Minority
+
+24
+
+Microaggression
+
+Committee of 100’s Glossary of Anti-Asian Terms and Tropes 2022
+
+S
+SICK MAN OF ASIA:
+A reference to a country experiencing poor governance or economic turmoil, usually
+related to corruption or incompetence.
+Why it’s racist: It describes a country in conflict and in need of assistance as a global
+threat rather than as human beings in need of aid. The term lacks empathy. Its use is
+particularly problematic in the wake of COVID-19-related discrimination. While the term
+is adopted from “sick man of Europe,” used to describe the fall of the Ottoman Empire,
+“sick man of Asia” can be particularly offensive in reference to China. It’s earliest use
+toward China tied the meaning to poor physical health and strength, a departure from
+its use to describe other countries. The term tied the nation’s loss in the Sino-Japanese
+War to military weakness resulting from widespread opioid addiction among its ranks,
+even though the prevalence of opioids were a result of colonialist policies that facilitated
+import of British opioids to China.
+See also ‘China Virus’, ‘Disease’
+Other
+
+Committee of 100’s Glossary of Anti-Asian Terms and Tropes 2022
+
+25
+
+SLANT/SLANT-EYE/SLOPE:
+Term used to describe a person of Asian descent; derived from the physical appearance
+of eyes with epicanthic folds.
+Why it’s racist: First used in the 1860s, just prior to the Chinese Exclusion Act, this is a
+manifestation of the “perpetual foreigner” stereotype and otherizes individuals based on
+physical appearance.
+Perpetual Foreigner
+
+26
+
+Explicit Aggression
+
+Committee of 100’s Glossary of Anti-Asian Terms and Tropes 2022
+
+SPIES:
+Individuals who work for a foreign government or other organization by secretly
+collecting information about enemies or competitors.
+When it’s problematic: Many countries, including the U.S., spy on other nations. It is
+important for every country to protect against foreign threats and hold individuals who
+steal secret information for foreign government accountable. It becomes problematic
+when people use this term to evoke fear of a particular racial or ethnic group and
+perceive them as not loyal to the U.S., untrustworthy and dangerous.
+See also ‘Dual Loyalty’, ‘Foreign Born’
+Perpetual Foreigner
+
+Explicit Aggression
+
+T
+THREAT TO WORKFORCE:
+Example: “Your people stole our jobs.”
+Why it’s racist: Fear and anger based on the perceived threat of Asian workers to
+American jobs and wages has a long history in the U.S. Dating back to the first wave
+of Chinese immigrants in the 19th century and resurging in the 1980s auto industry,
+this xenophobia otherizes Asian Americans, promotes the “perpetual foreigner” trope,
+and may even promote violent discrimination. The murder of Vincent Chin, a Chinese
+
+Committee of 100’s Glossary of Anti-Asian Terms and Tropes 2022
+
+27
+
+American killed because he was perceived to have “stolen” a while worker’s job,
+represents the worst consequences of “perpetual foreigner” racism.
+See also ‘Discipline’
+Perpetual Foreigner
+
+Model Minority
+
+Explicit Aggression
+
+TIGER MOM:
+A mother who parents very closely and uses strict discipline or extremely high
+expectations to push her child(ren) toward success.
+When it’s problematic: While sometimes used affectionately by parents of many
+cultures, when offered in a derogatory context, it perpetuates the yellow peril concept
+that Chinese Americans are a threat trying to “take over” America.
+See also ‘Discipline’
+Deviant
+
+28
+
+Model Minority
+
+Committee of 100’s Glossary of Anti-Asian Terms and Tropes 2022
+
+W
+WHITENESS:
+Examples: “You don’t really seem Asian.” “You’re basically white.” “Are you adopted?”
+Why these examples are problematic: These examples perpetuate stereotypes about
+Asian and American identities, separating the two as incompatible. When delivered as
+compliments, these microaggressions subordinate Asian culture to white culture. The
+application of “whiteness” to Asians also furthers the model minority myth.
+While these phrases may seem harmless, their frequency have serious consequences.
+They alienate AAPI individuals, reinforce harmful tropes, and normalize prejudice,
+perhaps even encouraging more violent acts of hate.
+See also ‘Banana’
+Model Minority
+
+Perpetual Foreigner
+
+Microaggression
+
+Z
+ZIPPERHEAD:
+Condescending term used to describe individuals of Asian descent.
+Why it’s racist: The term originated during the Korean and Vietnam Wars when
+American troops referred to injured or killed enemy soldiers with this description of the
+skid pattern military vehicles left on individuals they ran over. This groups all people of
+Asian descent into one group and portrays them as both weak and dangerous at the
+same time.
+Other
+
+Explicit Aggression
+Committee of 100’s Glossary of Anti-Asian Terms and Tropes 2022
+
+29
+
+
