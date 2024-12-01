@@ -1,0 +1,96 @@
+{
+    "query": "What happended to USA?",
+    "response": "The United States has faced multiple challenges in recent years, including the COVID-19 pandemic, which has led to a significant increase in anti-Asian racism and hate crimes. Events such as the pandemic have exacerbated existing social tensions, revealing and amplifying issues of racism and discrimination within society. Many communities have mobilized in response, launching campaigns like #WashTheHate to raise awareness of these incidents and to call for solidarity against hate. This reflects a broader historical pattern where marginalized communities, such as Asian Americans during the pandemic, have faced discrimination during times of crisis.",
+    "chunks": [
+        {
+            "score": 0.7762530768776693,
+            "metadata": {
+                "document_name": "2.txt",
+                "content": "nd on March 12 and was strolling down East Grand Avenue around 8 p.m., the two of them\nmarveling at the deserted streets.\nAs they headed toward the Red Line station, Nguyen said a man walking nearby saw them and yelled out, \"F--- China!\"\nThen the man spat on Nguyen, he said. The saliva splattered on his jacket.\nNguyen, who is of Vietnamese and Filipino descent, had imagined this moment. Having rea",
+                "chunk_id": 1,
+                "start": 250
+            }
+        },
+        {
+            "score": 0.7737292921411048,
+            "metadata": {
+                "document_name": "1.txt",
+                "content": "itness the bigotry that has percolated in\nChicago and across the country in response to the novel coronavirus pandemic that began in Wuhan, China. Racism has its own virulence that is bad for the nation's soul and,\nas research has shown, is actually bad for the nation's health.\nMy family's path to the Midwest began in those internment camps. In order to leave, family members secured employment in ",
+                "chunk_id": 4,
+                "start": 1000
+            }
+        },
+        {
+            "score": 0.7730490735334608,
+            "metadata": {
+                "document_name": "1.txt",
+                "content": "Racism is the other virus sweeping America during this pandemic\n\nMorita, Julie\n\nChicago Tribune\n\n2020-04-21\n\nMy parents have seen it all.\nAs Japanese Americans, they experienced as children the pain of internment during World War II, one of the terrible scars in our country's past that stemmed from fear, hate\nand racism. They lived through the horrors of 9/11 and witnessed the discrimination again",
+                "chunk_id": 0,
+                "start": 0
+            }
+        },
+        {
+            "score": 0.7730405968929878,
+            "metadata": {
+                "document_name": "2.txt",
+                "content": "nized because when something like this happens, it's all our fault.\"\nAsian American organizations last week launched the #WashTheHate campaign on social media, highlighting stories of coronavirus-related racism. The Asian Pacific Policy and\nPlanning Council and Chinese for Affirmative Action groups also started collecting reports of incidents of hostility against Asians.\nIn less than a week, more ",
+                "chunk_id": 21,
+                "start": 5250
+            }
+        },
+        {
+            "score": 0.7727119232129028,
+            "metadata": {
+                "document_name": "1.txt",
+                "content": "the 9/11 terrorist attacks. As fear, discrimination and violence toward Muslims increased, they spoke out against these injustices. In\nrecent years, they raised their voices again as federal policies became more punitive and restrictive for immigrants and refugees. Normally soft-spoken and unassuming, my\nparents shared their experiences in panel discussions, newsletters and as featured guests of a",
+                "chunk_id": 9,
+                "start": 2250
+            }
+        },
+        {
+            "score": 0.7722247829483695,
+            "metadata": {
+                "document_name": "2.txt",
+                "content": "o incarceration.\n\"History is repeating itself,\" Menard said. \"If we looked at the history of Asian Americans in the U.S., we've always been either held up as a model minority -- that despite the\ndiscrimination, we're still doing well -- or we're demonized because when something like this happens, it's all our fault.\"\nAsian American organizations last week launched the #WashTheHate campaign on soci",
+                "chunk_id": 20,
+                "start": 5000
+            }
+        },
+        {
+            "score": 0.7709736528236262,
+            "metadata": {
+                "document_name": "1.txt",
+                "content": "ble scars in our country's past that stemmed from fear, hate\nand racism. They lived through the horrors of 9/11 and witnessed the discrimination against Muslims in the wake of those attacks. With the coronavirus pandemic today, they\nare hearing the all-too-familiar vitriol toward Asian Americans being spewed from the dark and angry corners of social media and beyond.\nAlthough they remained stoic a",
+                "chunk_id": 1,
+                "start": 250
+            }
+        },
+        {
+            "score": 0.7704410201091496,
+            "metadata": {
+                "document_name": "2.txt",
+                "content": "nd other politicians first used the term, Nguyen and other Asians in Chicago said they have felt growing apprehension that\npeople take the president's comments as a license for racism.\nElsewhere in the U.S., reports of hate crimes have cropped up from New York to San Francisco, some caught on video and circulated through social media. In California's San\nFernando Valley, a 16-year-old was sent to ",
+                "chunk_id": 9,
+                "start": 2250
+            }
+        },
+        {
+            "score": 0.7682644861935412,
+            "metadata": {
+                "document_name": "2.txt",
+                "content": "t instance, I was just kind of shocked, or dumbfounded, of what occurred,\" Nguyen said.\nNguyen worries that East Asians in the United States will face even more harassment and attacks as coronavirus cases continue to rise. He said he believes President Donald\nTrump stoked such hate-filled reaction during a news briefing last week when he defended his use of \"Chinese virus.\"\n\"It's not racist at all",
+                "chunk_id": 4,
+                "start": 1000
+            }
+        },
+        {
+            "score": 0.765229530531324,
+            "metadata": {
+                "document_name": "1.txt",
+                "content": "ally after 9/11. They would begin to speak\nout against the injustices of that time, becoming activists in their own right.\nNow, as a Chicagoan who for nearly two decades worked for the Chicago Department of Public Health, I can't remain silent as I witness the bigotry that has percolated in\nChicago and across the country in response to the novel coronavirus pandemic that began in Wuhan, China. Rac",
+                "chunk_id": 3,
+                "start": 750
+            }
+        }
+    ]
+}

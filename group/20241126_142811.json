@@ -1,0 +1,17 @@
+{
+    "group_1": {
+        "group_name": "Before 2020-06",
+        "documents": [
+            "1.txt",
+            "2.txt"
+        ]
+    },
+    "group_2": {
+        "group_name": "On or After 2020-06",
+        "documents": [
+            "3.txt",
+            "4.txt",
+            "5.txt"
+        ]
+    }
+}

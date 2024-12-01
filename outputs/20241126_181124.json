@@ -1,0 +1,96 @@
+{
+    "query": "What happended to USA?",
+    "response": "The USA has been experiencing significant challenges recently, including a pandemic that has severely impacted daily life, leading to empty streets, shuttered businesses, and economic turmoil. This public health crisis has highlighted and exacerbated existing social issues, such as racial discrimination, where various groups, including Asian Americans, have faced increased hostility. Protests have erupted, stemming from dissatisfaction with systemic racism and the government's handling of the crisis. The situation reflects a broader struggle for human rights and equality in a country that often prides itself on being a \"beacon of freedom.\" Despite these challenges, many individuals remain hopeful for improvement and change in society.",
+    "chunks": [
+        {
+            "score": 0.8131629370084295,
+            "metadata": {
+                "document_name": "58.txt",
+                "content": "his is a new America.\nThe merciless threat slipped into America, emptying its streets, shuttering its stores, wrecking its economy and forcing its people to retreat indoors.\nIn this new country, once crowded cities now feel abandoned, as if everyone suddenly moved out. There is no rush hour on the nation's highways. \"Closed\" signs hang from the\nfront doors of business after business.\nFor many, thi",
+                "chunk_id": 1,
+                "start": 250
+            }
+        },
+        {
+            "score": 0.8123160337062735,
+            "metadata": {
+                "document_name": "540.txt",
+                "content": " Americans.\n",
+                "chunk_id": 19,
+                "start": 4750
+            }
+        },
+        {
+            "score": 0.8120303362822894,
+            "metadata": {
+                "document_name": "396.txt",
+                "content": "people, in addition to Asian Americans, may end up a new victim of some U.S. officials.\nIn the U.S., a country that claims to be a “beacon of freedom”, some U.S. politicians, however, have ignored the international\nhuman rights law, openly incited and condoned racial discrimination, and violated the bottom line of human civilization by\nblatantly trampling on human rights, which is by no means tole",
+                "chunk_id": 21,
+                "start": 5250
+            }
+        },
+        {
+            "score": 0.8109364428203192,
+            "metadata": {
+                "document_name": "396.txt",
+                "content": "t others.\nThe conflicts and antagonisms in the American society won’t stop worsening unless certain U.S. officials break off the political\nscheme to pass the buck to China for their misconduct in dealing with the epidemic.\nOtherwise, other groups of people, in addition to Asian Americans, may end up a new victim of some U.S. officials.\nIn the U.S., a country that claims to be a “beacon of freedom”",
+                "chunk_id": 20,
+                "start": 5000
+            }
+        },
+        {
+            "score": 0.8069788812443054,
+            "metadata": {
+                "document_name": "639.txt",
+                "content": "an Americans in our society.\"",
+                "chunk_id": 33,
+                "start": 8250
+            }
+        },
+        {
+            "score": 0.8067530133323626,
+            "metadata": {
+                "document_name": "432.txt",
+                "content": "has proved fatally incapable of responding to it. The anger displayed on the streets of US cities shows that not only do a lot of people want an end to the country's long history of racist killings, they also want the administration to be held accountable for its deadly ham-fisted handling of the pandemic.\nIt is fair to say that it is the US administration that has single-handedly transformed the ",
+                "chunk_id": 9,
+                "start": 2250
+            }
+        },
+        {
+            "score": 0.8066665311542759,
+            "metadata": {
+                "document_name": "396.txt",
+                "content": "g the international community and American people with breadth of vision.\nThis year, the special procedures of the U.N. Human Rights Council have repeatedly condemned the U.S. for its racial\ndiscrimination and hate speech.\nRecent hate crimes and violent assaults against people of Asian descent should sound an alarm for America, said nearly 200\nAmerican foreign policy scholars and former diplomats ",
+                "chunk_id": 17,
+                "start": 4250
+            }
+        },
+        {
+            "score": 0.8046188189110315,
+            "metadata": {
+                "document_name": "433.txt",
+                "content": "a situation was due to many political reasons. The website of the Washington Post observed on May 9 that the U.S. anti-pandemic action had become a state-approved massacre that deliberately sacrificed the lives of the elderly, the working class, African Americans, and Hispanic Americans.\nThe Homeless Having Nowhere to Go during the Pandemic. The website of USA Today reported on April 22, 2020, tha",
+                "chunk_id": 91,
+                "start": 22750
+            }
+        },
+        {
+            "score": 0.8028608462598462,
+            "metadata": {
+                "document_name": "433.txt",
+                "content": " and 111,620 deaths from the virus in the United States, with both figures significantly higher than those of other countries. For the United States, which\nboasts the strongest economic and technological strength and the most abundant medical resources in the world, this is a sad irony.\nIgnoring the Pandemic Warnings. According to the revisited timeline of the pandemic in the United States, which ",
+                "chunk_id": 8,
+                "start": 2000
+            }
+        },
+        {
+            "score": 0.8022747935902419,
+            "metadata": {
+                "document_name": "82.txt",
+                "content": "a professor in China in pursuit of the rights and equality touted by our nation's\nfounders. Nearly three decades later, he hesitates each time he leaves his home. And yet, when I asked him\nabout it over Lunar New Year, he showed no signs of resignation, choosing to believe instead that things will get\nbetter. As he often said to me growing up, no matter what came our way: America can be good.\n",
+                "chunk_id": 21,
+                "start": 5250
+            }
+        }
+    ]
+}
