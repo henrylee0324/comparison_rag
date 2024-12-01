@@ -1,1 +1,0 @@
-embeddings/glossary.json filter=lfs diff=lfs merge=lfs -text
