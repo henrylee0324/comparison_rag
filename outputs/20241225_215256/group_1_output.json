@@ -1,0 +1,96 @@
+{
+    "query": "For victims: What kinds of feelings or reactions towards the anti-Asian incidents were described in the mainstream and non-mainstream media for victims?",
+    "response": "Victims of anti-Asian incidents have reported a range of feelings and reactions, as highlighted in both mainstream and non-mainstream media. These include:\n\n1. **Grief and Relief**: Some victims felt profound grief over the incidents of violence, yet also experienced a sense of relief that such events were being recognized and reported more urgently, similar to other forms of racism (score: 0.8799).\n\n2. **Psychological Toll**: The repeated incidents have caused significant psychological stress and anxiety among victims. Many feel a heightened level of stress due to the violence and discrimination they face, which has been exacerbated by a constant barrage of media coverage highlighting the attacks (score: 0.8602).\n\n3. **Fear and Anxiety**: There is pervasive anxiety and fear stemming from the violence, contributing to a collective sense of insecurity in Asian communities. This fear is often tied to social pressures and the stigma associated with being a victim of hate crimes (score: 0.8581).\n\n4. **Wary of Law Enforcement**: Many victims express wariness about engaging with law enforcement due to concerns over immigration status or cultural barriers, as well as a lack of trust in authorities (score: 0.8594).\n\n5. **Mobilization and Sharing Experiences**: A notable reaction is the increasing mobilization among Asian Americans, encouraging individuals to share their experiences and speak out against the violence. This is viewed as a vital step in combating the attacks and raising awareness (score: 0.8565).\n\n6. **Internalized Racism and Alienation**: Victims often grapple with internalized racism and feelings of alienation. This relates to the \"perpetual foreigner\" trope, which makes victims question their identity and belonging in American society (score: 0.8179).\n\nOverall, the feelings and reactions encompass a complex interplay of emotional pain, mobilization for change, and the challenges of navigating societal perceptions and biases.",
+    "chunks": [
+        {
+            "score": 0.8799279156526367,
+            "metadata": {
+                "document_name": "86.txt",
+                "content": "t incidents of anti-Asian violence unfold in the news, I felt a profound sense of grief. But I also experienced something akin to relief. Maybe, I thought, now people will start to respond to anti-Asian violence with the same urgency they apply to other kinds of racism.\n\nBut then I started to feel a familiar queasiness in the pit of my stomach. Is this indeed what it takes? A political imagination",
+                "chunk_id": 9,
+                "start": 2250
+            }
+        },
+        {
+            "score": 0.862098406594773,
+            "metadata": {
+                "document_name": "323.txt",
+                "content": "an organization watch for bias, discrimination and hate around the world. The report listed more than 100 anti-Asian incidents reported in the media and by victims since January. The attacks have happened in college campuses, city subways and online. Many individuals being spit on, stabbed, beat up, or verbally assaulted.\nOne incident reported by the Daily Beast is that a man from Myanmar and his ",
+                "chunk_id": 3,
+                "start": 750
+            }
+        },
+        {
+            "score": 0.8602035516362418,
+            "metadata": {
+                "document_name": "56.txt",
+                "content": "ion\npublished a manual for responding to anti-Asian violence.\nWhile several prominent activists and organizers said they haven't received reports about local Asian\ncommunities being subjected to the same type of violence documented in California and New York, the incidents\nhave taken a psychological toll.\n“It just adds to their level of stress,” said Ben Hires, chief executive of the Boston Chinat",
+                "chunk_id": 12,
+                "start": 3000
+            }
+        },
+        {
+            "score": 0.8593724369894251,
+            "metadata": {
+                "document_name": "635.txt",
+                "content": "hem, and there may be language barriers to accessing those resources for older Asian Americans in particular. He said there may be cultural barriers to reporting as well, including shame around being perceived as a victim. Some victims may also be concerned about interacting with law enforcement because of their immigration status.\n\nYang added that not all hate incidents rise to the level of crime",
+                "chunk_id": 31,
+                "start": 7750
+            }
+        },
+        {
+            "score": 0.8581457692648727,
+            "metadata": {
+                "document_name": "299.txt",
+                "content": "part of the story. Stop AAPI Hate says reports represent “only a fraction of the number of hate incidents that actually occur,” and even Kulp, who chairs the Philadelphia LGBTQ Bar Association, did not know bias incidents were reportable when he was harassed.\nIt is harder to quantify the pervasive anxiety, fear, and trauma that are triggered by the constant barrage of images of Asian violence and ",
+                "chunk_id": 21,
+                "start": 5250
+            }
+        },
+        {
+            "score": 0.8578719080907805,
+            "metadata": {
+                "document_name": "9.txt",
+                "content": "ission\npublished a manual for responding to anti-Asian violence.\nWhile several prominent activists and organizers said they haven't received reports about local Asian\ncommunities being subjected to the same type of violence documented in California and New York, the incidents\nhave taken a psychological toll.\n“It just adds to their level of stress,” said Ben Hires, chief executive of the Boston Chi",
+                "chunk_id": 12,
+                "start": 3000
+            }
+        },
+        {
+            "score": 0.856595318771564,
+            "metadata": {
+                "document_name": "556.txt",
+                "content": ". \nMany are wary of the police, uncomfortable about communicating in English or ashamed about being victims, she said. But the rise in anti-Asian attacks has mobilized many Asian Americans and encouraged them to share their experiences, according to Judy Wu, a professor of Asian American studies at UC Irvine. \n\"It's been such an intensity of racialized attacks that more and more people are underst",
+                "chunk_id": 12,
+                "start": 3000
+            }
+        },
+        {
+            "score": 0.8556379935802767,
+            "metadata": {
+                "document_name": "477.txt",
+                "content": "gender, sexual orientation or religion: stay quiet, or say or do something and possibly risk an escalation? \nFor many Asian Americans, from immigrants to fifth generation, incidents like the one Tang endured have been an all too normal part of their lives - usually not rising to physical attacks but feeling at times like a window into a deeper well of hate. \nNow, a recent spate of attacks against ",
+                "chunk_id": 2,
+                "start": 500
+            }
+        },
+        {
+            "score": 0.8554354931608592,
+            "metadata": {
+                "document_name": "401.txt",
+                "content": " summer to explore how young people are\ncoping with rising racism.\nIt showed that 77 percent of Asian American youths expressed anger over the current anti-Asian hate in the\nUnited States, and 60 percent were disappointed at racism.\nIncidents of harassment focused on blaming China and Chinese people as the source of the virus and mocking\nChinese dietary habits, it said.\nThe second report, written ",
+                "chunk_id": 2,
+                "start": 500
+            }
+        },
+        {
+            "score": 0.8548426617332692,
+            "metadata": {
+                "document_name": "132.txt",
+                "content": "s hate crimes against Asian- Americans who have been attacked, harassed, blamed and scapegoated.\"\n",
+                "chunk_id": 17,
+                "start": 4250
+            }
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "query": "Types of racism being reported.",
+    "chunks": [
+        {
+            "score": 0.8360209783741861,
+            "metadata": {
+                "document_name": "4. structural_racism_and_health_equity_language_guide.txt",
+                "content": "group 3. Racism appears in different forms (defined later in this document).\nUsage: The AHA should not shy away from these words as appropriate, but we must carefully\nconsider facts and context. Our communications should start with fact-based, sensitive\nlanguage rooted in this important point: Racism persists throughout society and is\ndetrimental to people’s health and well-being. When discussing ",
+                "chunk_id": 56,
+                "start": 14000
+            }
+        },
+        {
+            "score": 0.8318179260375442,
+            "metadata": {
+                "document_name": "5.Glossary from CDC guide.txt",
+                "content": "d and producing new forms of racism. Structural racism is the most profound\nand pervasive form of racism – all other forms of racism emerge from structural racism.\nFor example, we can see structural racism in the many institutional, cultural, and structural factors that\ncontribute to lower life expectancy for African American and Native American men, compared to white\nmen. These include higher exp",
+                "chunk_id": 161,
+                "start": 40250
+            }
+        },
+        {
+            "score": 0.831214581459592,
+            "metadata": {
+                "document_name": "5.Glossary from CDC guide.txt",
+                "content": "ential of our whole society through the waste of human resources. Racism can be expressed on\nthree levels:6 (CDC)\nInterpersonal/personally-mediated racism: Prejudice and discrimination, where prejudice is\ndifferential assumptions about the abilities, motives, and intents of others by “race,” and\ndiscrimination is differential actions towards others by “race.” These can be either intentional or\nuni",
+                "chunk_id": 87,
+                "start": 21750
+            }
+        },
+        {
+            "score": 0.8309392067650099,
+            "metadata": {
+                "document_name": "4. structural_racism_and_health_equity_language_guide.txt",
+                "content": " negative societal beliefs and stereotypes about themselves.\n\n•\n\ninterpersonal racism This occurs in public expressions of racism among\nindividuals, often involving slurs, biases or hateful words or actions4.\n\n•\n\ninstitutional racism This occurs through policies and practices at institutions or\n\n3\n\nFriske, Gilbert, Gardner. Position Statement- Prejudice, Discrimination, and Racism. NASP- National ",
+                "chunk_id": 64,
+                "start": 16000
+            }
+        },
+        {
+            "score": 0.830783588811835,
+            "metadata": {
+                "document_name": "4. structural_racism_and_health_equity_language_guide.txt",
+                "content": " a statement, action, policy, etc., should be described as racism or racist\noften is not clear-cut. Such decisions should include discussion with colleagues and/or others\nfrom diverse backgrounds and perspectives. In general, avoid using racist or any other label\nfor a person. Don’t repeat derogatory terms except when it is crucial to the understanding of\nan event.\nBelow are general categories of ",
+                "chunk_id": 60,
+                "start": 15000
+            }
+        },
+        {
+            "score": 0.8306224787583594,
+            "metadata": {
+                "document_name": "4. structural_racism_and_health_equity_language_guide.txt",
+                "content": "l racism Actions, beliefs and attitudes of individuals, overtly or covertly,\ntoward a person intentionally expressing prejudice, hate or bias 4 based on race.\n\n•\n\ninternalized racism Acceptance — by people who have suffered the effects of\nracism — of negative societal beliefs and stereotypes about themselves.\n\n•\n\ninterpersonal racism This occurs in public expressions of racism among\nindividuals, o",
+                "chunk_id": 63,
+                "start": 15750
+            }
+        },
+        {
+            "score": 0.8273006902863571,
+            "metadata": {
+                "document_name": "3. Anti-Hate Glossary.txt",
+                "content": "is type of\ndiscrimination causes mental and physical anguish and normalizes racist divisions and\nstereotypes. Some Asian Americans internalize this racial hierarchy and alter their selfperception to conform with the perpetual foreigner trope. Young Asian Americans, in\nparticular, may feel pressure to either embrace their cultural background or reject it and\nassimilate into white American society.\n",
+                "chunk_id": 39,
+                "start": 9750
+            }
+        },
+        {
+            "score": 0.8246201147066446,
+            "metadata": {
+                "document_name": "4. structural_racism_and_health_equity_language_guide.txt",
+                "content": "y other label\nfor a person. Don’t repeat derogatory terms except when it is crucial to the understanding of\nan event.\nBelow are general categories of racism. Not all ideologies, concepts, language and actions fit\nperfectly into these categories.\n•\n\ncultural racism A set of societal beliefs and customs that deliberately build and\nmaintain a system valuing one race over others. In the U.S., one exam",
+                "chunk_id": 61,
+                "start": 15250
+            }
+        },
+        {
+            "score": 0.8227751520968369,
+            "metadata": {
+                "document_name": "4. structural_racism_and_health_equity_language_guide.txt",
+                "content": " white people against Black people in the U.S., although it\nis likely held in some measure among other ethnic groups.\n\n•\n\nstructural racism, systemic racism Often used interchangeably, the AHA prefers\nthe term structural racism. It is a system in which public policies, institutional\npractices, cultural representations and other norms perpetuate racial inequity 5.\nThe policies, practices and other ",
+                "chunk_id": 68,
+                "start": 17000
+            }
+        },
+        {
+            "score": 0.8217792191328432,
+            "metadata": {
+                "document_name": "4. structural_racism_and_health_equity_language_guide.txt",
+                "content": "ased on race, gender, age, sexual orientation or another\ngroup, class or category to which people may belong. Discrimination can be overt and covert,\nincluding microaggressions, indirect or subtle behaviors such as comments reflecting negative\nattitudes or beliefs about a non-majority group3.\nExamples: Hiring, firing, promoting and other workplace decisions; decisions about funding or\nconducting s",
+                "chunk_id": 144,
+                "start": 36000
+            }
+        }
+    ]
+}

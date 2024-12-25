@@ -1,0 +1,96 @@
+{
+    "query": "For organizations (i.e., law enforcement agencies, government officials, and NGO groups): What kinds of feelings or reactions towards the anti-Asian incidents were described in the mainstream and non-mainstream media for them?",
+    "response": "Various feelings and reactions towards anti-Asian incidents were highlighted in both mainstream and non-mainstream media. \n\n1. **Grief and Relief**: Some individuals expressed grief over the occurrences of anti-Asian violence but also felt a sense of relief, believing that these incidents might finally prompt a more urgent response to anti-Asian violence, akin to that given to other forms of racism (score: 0.8700).\n\n2. **Wary Perspectives**: There were sentiments of wariness among the Asian community regarding law enforcement as they felt uncomfortable reporting incidents, often due to language barriers, fear of discrimination, and concerns about immigration status (score: 0.8597).\n\n3. **Psychological Toll**: Reports indicated that regardless of whether communities felt immediate threats, the incidents took a psychological toll on individuals, adding stress and anxiety to their lives (score: 0.8597).\n\n4. **Fragmented Community**: Some discussions pointed to a fragmented Asian community that, despite being perceived as homogenous by society, deals with diverse issues and identities, which hinder concerted action and reporting of incidents (score: 0.8587).\n\n5. **Trivialization of Violence**: There was a perception that attacks against Asian Americans were often trivialized or not recognized as racially motivated, causing frustration among community members and advocates (score: 0.8574).\n\n6. **Reporting Reluctance**: It was noted that many individuals from Asian communities may hesitate to report incidents of discrimination due to a fear of law enforcement or a feeling that their experiences would be invalidated (score: 0.8563).\n\n7. **Negative Media Representation**: Critiques were made about the media’s portrayal of Asian individuals, which included propagating negative stereotypes during public health crises, thereby fostering further discrimination (score: 0.8558).\n\nOverall, while there was a growing awareness and acknowledgment of the issues facing Asian communities, the responses were mixed, reflecting both a call for urgency and an underlying apprehension about systemic biases and existing support structures.",
+    "chunks": [
+        {
+            "score": 0.8700489236245145,
+            "metadata": {
+                "document_name": "86.txt",
+                "content": "t incidents of anti-Asian violence unfold in the news, I felt a profound sense of grief. But I also experienced something akin to relief. Maybe, I thought, now people will start to respond to anti-Asian violence with the same urgency they apply to other kinds of racism.\n\nBut then I started to feel a familiar queasiness in the pit of my stomach. Is this indeed what it takes? A political imagination",
+                "chunk_id": 9,
+                "start": 2250
+            }
+        },
+        {
+            "score": 0.8691109055719305,
+            "metadata": {
+                "document_name": "323.txt",
+                "content": "an organization watch for bias, discrimination and hate around the world. The report listed more than 100 anti-Asian incidents reported in the media and by victims since January. The attacks have happened in college campuses, city subways and online. Many individuals being spit on, stabbed, beat up, or verbally assaulted.\nOne incident reported by the Daily Beast is that a man from Myanmar and his ",
+                "chunk_id": 3,
+                "start": 750
+            }
+        },
+        {
+            "score": 0.8601657873155254,
+            "metadata": {
+                "document_name": "556.txt",
+                "content": ". \nMany are wary of the police, uncomfortable about communicating in English or ashamed about being victims, she said. But the rise in anti-Asian attacks has mobilized many Asian Americans and encouraged them to share their experiences, according to Judy Wu, a professor of Asian American studies at UC Irvine. \n\"It's been such an intensity of racialized attacks that more and more people are underst",
+                "chunk_id": 12,
+                "start": 3000
+            }
+        },
+        {
+            "score": 0.8597071894518504,
+            "metadata": {
+                "document_name": "9.txt",
+                "content": "ission\npublished a manual for responding to anti-Asian violence.\nWhile several prominent activists and organizers said they haven't received reports about local Asian\ncommunities being subjected to the same type of violence documented in California and New York, the incidents\nhave taken a psychological toll.\n“It just adds to their level of stress,” said Ben Hires, chief executive of the Boston Chi",
+                "chunk_id": 12,
+                "start": 3000
+            }
+        },
+        {
+            "score": 0.8586541476412966,
+            "metadata": {
+                "document_name": "525.txt",
+                "content": "or news outlets attributed the slow emergence of the worsening situation to the quiet nature of Asian people. \nBut that story was incomplete and inaccurate. What had prevented these incidents from surfacing faster was less about the shyness of Asians. What had been exposed was a fragmented Asian community. While Asians are looked upon as the same in the eyes of the West, they are not monolithic - ",
+                "chunk_id": 2,
+                "start": 500
+            }
+        },
+        {
+            "score": 0.858263900022707,
+            "metadata": {
+                "document_name": "56.txt",
+                "content": "ion\npublished a manual for responding to anti-Asian violence.\nWhile several prominent activists and organizers said they haven't received reports about local Asian\ncommunities being subjected to the same type of violence documented in California and New York, the incidents\nhave taken a psychological toll.\n“It just adds to their level of stress,” said Ben Hires, chief executive of the Boston Chinat",
+                "chunk_id": 12,
+                "start": 3000
+            }
+        },
+        {
+            "score": 0.8574042101676912,
+            "metadata": {
+                "document_name": "74.txt",
+                "content": "ke other minority groups, have endured a long history of deadly violence, the threats and discrimination they continue to face are often trivialized as harmless insults. In many cases, some said, people are reluctant to even acknowledge that attacks against Asian Americans could be racially motivated, as happened Wednesday when a law enforcement official in Georgia seemed to dismiss racial animus ",
+                "chunk_id": 6,
+                "start": 1500
+            }
+        },
+        {
+            "score": 0.8562934501249462,
+            "metadata": {
+                "document_name": "148.txt",
+                "content": "pandemic, Chinese-Americans and others of Asian descent have reported more cases of racism and discrimination. However, broader data on the discrimination is sparse.\nManjusha P. Kulkarni, executive director of the Asian Pacific Policy and Planning Council, said members of Asian communities may be reluctant to report incidents because of immigration and policing concerns.\nShe said the organization ",
+                "chunk_id": 9,
+                "start": 2250
+            }
+        },
+        {
+            "score": 0.8560753820984763,
+            "metadata": {
+                "document_name": "237.txt",
+                "content": ". As national leaders used language like \"China virus\" during the pandemic, they noticed people moving away from them in stores, even though they were not more likely to have the virus.\n\"Many of us in the Asian communities in Portland have had experiences that make them feel very uncomfortable,\" she said.\nMany Asian Americans across the United States hesitate to report that type of biased behavior",
+                "chunk_id": 29,
+                "start": 7250
+            }
+        },
+        {
+            "score": 0.8557808008067167,
+            "metadata": {
+                "document_name": "204.txt",
+                "content": "le, that media coverage of the SARS outbreak propagated negative images of Asians, which in turn led to \"detrimental\" emotional effects.\n\"Rather than focusing on relief efforts by the government and actions taken to contain the epidemic, mainstream media chose to simply expose and repeatedly accuse the Asian population of initiating the spread of SARS,\" the researchers found.\nDuring the swine flue",
+                "chunk_id": 24,
+                "start": 6000
+            }
+        }
+    ]
+}

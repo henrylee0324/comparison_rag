@@ -1,0 +1,96 @@
+{
+    "query": "Types of racism being reported.",
+    "response": "The types of racism being reported can be categorized into several distinct forms:\n\n1. **Interpersonal or Personally-Mediated Racism**: This form of racism involves direct expressions of prejudice and discrimination against individuals based on their race. It can take the form of slurs, biases, or other hateful actions.\n\n2. **Institutional Racism**: This occurs through policies and practices within institutions that create or maintain racial inequities. Such racism is embedded within organizational structures and can manifest in various sectors including education, healthcare, and law enforcement.\n\n3. **Structural Racism**: This is a broader form of racism that refers to the systemic and societal factors that contribute to racial inequality. It encompasses policies, practices, and cultural norms that perpetuate disparities across diverse areas such as economics, housing, and social status.\n\n4. **Internalized Racism**: This occurs when individuals who have been subjected to racism accept negative societal beliefs and stereotypes about themselves, affecting their self-perception and worldview.\n\n5. **Cultural Racism**: This type involves societal beliefs and customs that favor one race over others, reinforcing a racial hierarchy that often values the cultural norms of a dominant race while marginalizing others.\n\nReports have indicated that recent incidents of racism can include behaviors such as being coughed on or spat upon, being denied services, or facing verbal assaults, specifically targeting certain racial groups, particularly during the COVID-19 pandemic. Reports suggest high instances of such derogatory encounters, particularly towards individuals of Asian descent.",
+    "chunks": [
+        {
+            "score": 0.8440972164918739,
+            "metadata": {
+                "document_name": "238.txt",
+                "content": "and 71 percent were verbal attacks. Among the victims,\nmost were women, and about 126 reported being older than 60.\n“We were flooded immediately with hundreds of incidents,” said Russell Jeung, a professor of Asian American\nstudies at San Francisco State University, who helped launch the site. “We have large numbers of elderly\nreporting that you wouldn’t think would complain, but they knew racism ",
+                "chunk_id": 18,
+                "start": 4500
+            }
+        },
+        {
+            "score": 0.8434875893750768,
+            "metadata": {
+                "document_name": "330.txt",
+                "content": "r compared to real racism.\nWhile hard statistics are unavailable, a survey by the Asian-American Studies department at San Francisco State University found a 50 per cent increase in news stories about coronavirus-related discrimination and violent incidents from early February to early March in the US.\nFussing over minor incidents distracts people from the real problems that many Asians suffer on ",
+                "chunk_id": 8,
+                "start": 2000
+            }
+        },
+        {
+            "score": 0.8423613910482388,
+            "metadata": {
+                "document_name": "148.txt",
+                "content": "pandemic, Chinese-Americans and others of Asian descent have reported more cases of racism and discrimination. However, broader data on the discrimination is sparse.\nManjusha P. Kulkarni, executive director of the Asian Pacific Policy and Planning Council, said members of Asian communities may be reluctant to report incidents because of immigration and policing concerns.\nShe said the organization ",
+                "chunk_id": 9,
+                "start": 2250
+            }
+        },
+        {
+            "score": 0.8380585953248385,
+            "metadata": {
+                "document_name": "420.txt",
+                "content": " 386 racist incidents, including abuse, physical intimidation and spitting.\nThe survey also revealed that roughly 90 per cent of racist incidents were not being reported to police and the vast majority were perpetrated by strangers in public.\nMr Chiu called on the federal government to improve what he said was a disjointed incident reporting process, potentially through the Human Rights Commission",
+                "chunk_id": 4,
+                "start": 1000
+            }
+        },
+        {
+            "score": 0.8380187331775464,
+            "metadata": {
+                "document_name": "358.txt",
+                "content": "s report.\nNow, he said, they are trying to remind the community that, \"These are real stories that affect real people.\"\nThe group doesn't view racism along strictly political party lines but as a cultural and historical problem. Nor does the\ngroup view racism purely as a Black versus white issue, Freeman said, noting that Latinos and Asian Americans also\nexperience discrimination.\n\"The thing about",
+                "chunk_id": 15,
+                "start": 3750
+            }
+        },
+        {
+            "score": 0.8380187331775464,
+            "metadata": {
+                "document_name": "360.txt",
+                "content": "s report.\nNow, he said, they are trying to remind the community that, \"These are real stories that affect real people.\"\nThe group doesn't view racism along strictly political party lines but as a cultural and historical problem. Nor does the\ngroup view racism purely as a Black versus white issue, Freeman said, noting that Latinos and Asian Americans also\nexperience discrimination.\n\"The thing about",
+                "chunk_id": 15,
+                "start": 3750
+            }
+        },
+        {
+            "score": 0.8361395211722222,
+            "metadata": {
+                "document_name": "406.txt",
+                "content": " and fair go, but Australian academics have been documenting some disturbing factors\nwhere minority groups are concerned.\nAccording to the University of Western Sydney’s Challenging Racism Project, one in three people experienced\nracism in the workplace in 2015-16, while a 2013 study published in the Journal of Youth and Adolescence found\nseven in 10 students experienced or observed racism during ",
+                "chunk_id": 1,
+                "start": 250
+            }
+        },
+        {
+            "score": 0.8358339759589035,
+            "metadata": {
+                "document_name": "33.txt",
+                "content": " who helped launch the site. \"We have large numbers of elderly\nreporting that you wouldn't think would complain, but they knew racism when they experienced it.\"\nOf the self-reported victims, 41 percent were Chinese, 15 percent were Korean, 8 percent were Vietnamese and\n7 percent were Filipino. States with higher Asian populations report more incidents, with California most represented followed by ",
+                "chunk_id": 19,
+                "start": 4750
+            }
+        },
+        {
+            "score": 0.8344595923922963,
+            "metadata": {
+                "document_name": "83.txt",
+                "content": "ntify hate.\n\nIncidents of racism can take many forms — like being coughed on or spat upon, or being denied a ride-share. Tallying such incidents requires that victims tell authorities or another organization what happened, which can be difficult when they may feel ashamed or distrustful of those authorities.\n\nOne statistic that has been widely cited, identifying a 1,900% increase in hate crimes ag",
+                "chunk_id": 13,
+                "start": 3250
+            }
+        },
+        {
+            "score": 0.8343340152063401,
+            "metadata": {
+                "document_name": "599.txt",
+                "content": "periences because of their race or ethnicity since the coronavirus outbreak began. Those experiences include hearing slurs or jokes or fearing someone may threaten or physically attack them.\n\nBy contrast, only 13% of whites reported similar instances.\n\nIn addition, almost 40% of U.S. adults – including 58% of the respondents of Asian descent – said it’s more common for people to express racist vie",
+                "chunk_id": 2,
+                "start": 500
+            }
+        }
+    ]
+}

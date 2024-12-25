@@ -1,0 +1,95 @@
+{
+    "query": "For organizations (i.e., law enforcement agencies, government officials, and NGO groups): What kinds of feelings or reactions towards the anti-Asian incidents were described in the mainstream and non-mainstream media for them?",
+    "chunks": [
+        {
+            "score": 0.83867697323938,
+            "metadata": {
+                "document_name": "3. Anti-Hate Glossary.txt",
+                "content": "is type of\ndiscrimination causes mental and physical anguish and normalizes racist divisions and\nstereotypes. Some Asian Americans internalize this racial hierarchy and alter their selfperception to conform with the perpetual foreigner trope. Young Asian Americans, in\nparticular, may feel pressure to either embrace their cultural background or reject it and\nassimilate into white American society.\n",
+                "chunk_id": 39,
+                "start": 9750
+            }
+        },
+        {
+            "score": 0.8318984284697524,
+            "metadata": {
+                "document_name": "3. Anti-Hate Glossary.txt",
+                "content": "th political, economic, and societal changes,\ncharacterizing Asian Americans as immoral and dangerous in one instance and meek\nand robotic in another. To reflect these variations, this glossary divides terms into three\nmajor subcategories: perpetual foreigner, deviant, and model minority. Each term is\ntagged with one or more of these subcategories or with “other.” Because the terms and\ntropes all ",
+                "chunk_id": 30,
+                "start": 7500
+            }
+        },
+        {
+            "score": 0.8304243600877985,
+            "metadata": {
+                "document_name": "3. Anti-Hate Glossary.txt",
+                "content": "sian Americans, in\nparticular, may feel pressure to either embrace their cultural background or reject it and\nassimilate into white American society.\n\nDeviant\nGendered stereotypes present people of Asian descent as an aberrant threat. Harmful\ntropes objectify Asian women as submissive yet overly sexual. These images and ideas\nlead directly to racially motivated sexual violence against Asian women.",
+                "chunk_id": 40,
+                "start": 10000
+            }
+        },
+        {
+            "score": 0.8304083156891721,
+            "metadata": {
+                "document_name": "3. Anti-Hate Glossary.txt",
+                "content": "ing the\nU.S.-China relationship and COVID-19 and increased violence against Asian Americans\nreveal a return to fear-based, anti-Asian hate.\n\n4\n\nCommittee of 100’s Glossary of Anti-Asian Terms and Tropes 2022\n\n\fVersions of yellow peril have shifted with political, economic, and societal changes,\ncharacterizing Asian Americans as immoral and dangerous in one instance and meek\nand robotic in another.",
+                "chunk_id": 29,
+                "start": 7250
+            }
+        },
+        {
+            "score": 0.8303899558717917,
+            "metadata": {
+                "document_name": "3. Anti-Hate Glossary.txt",
+                "content": " real problem affecting the entire country that everyone can help\nchange.\nThis document focuses on the experiences and treatment of individuals of Asian\ndescent living, working, and travelling in the U.S. For brevity, it will use the term “Asian\nAmerican” to refer to individuals of Asian descent in the U.S. regardless of citizenship.\nThis timeline of anti-Asian racism follows the evolution of yell",
+                "chunk_id": 24,
+                "start": 6000
+            }
+        },
+        {
+            "score": 0.8293063885917109,
+            "metadata": {
+                "document_name": "4. structural_racism_and_health_equity_language_guide.txt",
+                "content": ", institutions and other mass communications. When portrayed accurately, they can\nbe positive. However, Black, Hispanic, Indigenous, Asian and other people are often\nrepresented in dehumanizing ways through perpetuating and normalizing stereotypes 9.\nUsage: Beware of such references slipping into language based on historic usage. When\nwriting about cultural representations, specifics are best.\nExa",
+                "chunk_id": 136,
+                "start": 34000
+            }
+        },
+        {
+            "score": 0.8243666177005109,
+            "metadata": {
+                "document_name": "3. Anti-Hate Glossary.txt",
+                "content": "rity groups because\nof their “pull-yourselves-up-by-your-bootstraps” immigrant mentality. These stereotypes\ndeveloped in the period following World War II and into the 1960s to push back against\nthe Civil Rights Movement. African Americans were organizing and protesting the\nwidespread structural racism in the U.S., and opponents of the Civil Rights Movement\nportrayed Asian Americans as a model of ",
+                "chunk_id": 47,
+                "start": 11750
+            }
+        },
+        {
+            "score": 0.8239086547355359,
+            "metadata": {
+                "document_name": "3. Anti-Hate Glossary.txt",
+                "content": "ican” to refer to individuals of Asian descent in the U.S. regardless of citizenship.\nThis timeline of anti-Asian racism follows the evolution of yellow peril, the idea that\nindividuals of Chinese or broader Asian descent are inherently threatening. The concept\noriginated with the 19th century Chinese laborers whom white Americans feared\nwould lower wages and take jobs. These fears morphed into th",
+                "chunk_id": 25,
+                "start": 6250
+            }
+        },
+        {
+            "score": 0.8227003820383798,
+            "metadata": {
+                "document_name": "3. Anti-Hate Glossary.txt",
+                "content": " erase\nindividuality, obscure racism, and dehumanize Asians. They treat Asian Americans as\na monolith whose perceived success in the U.S. disproves the existence of anti-Asian\nracism. These stereotypes overlook the wide range of Asian experiences in the U.S.\nOn a practical level, the model minority myth can prevent Asian children from receiving\nnecessary help and individual attention from teachers",
+                "chunk_id": 71,
+                "start": 17750
+            }
+        },
+        {
+            "score": 0.8225385373518719,
+            "metadata": {
+                "document_name": "5.Glossary from CDC guide.txt",
+                "content": "ted States today were considered “non-white” in previous eras, in U.S. Census data and in\nmass media and popular culture (for example, Irish, Italian, and Jewish people).\n- The way in which racial categorizations are enforced (the shape of racism) has also changed over\ntime. For example, the racial designation of Asian American and Pacific Islander changed four\ntimes in the 19th century. That is, ",
+                "chunk_id": 120,
+                "start": 30000
+            }
+        }
+    ]
+}

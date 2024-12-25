@@ -1,0 +1,95 @@
+{
+    "query": "For victims: What kinds of feelings or reactions towards the anti-Asian incidents were described in the mainstream and non-mainstream media for victims?",
+    "chunks": [
+        {
+            "score": 0.8417483241711927,
+            "metadata": {
+                "document_name": "3. Anti-Hate Glossary.txt",
+                "content": "is type of\ndiscrimination causes mental and physical anguish and normalizes racist divisions and\nstereotypes. Some Asian Americans internalize this racial hierarchy and alter their selfperception to conform with the perpetual foreigner trope. Young Asian Americans, in\nparticular, may feel pressure to either embrace their cultural background or reject it and\nassimilate into white American society.\n",
+                "chunk_id": 39,
+                "start": 9750
+            }
+        },
+        {
+            "score": 0.8330611780134636,
+            "metadata": {
+                "document_name": "3. Anti-Hate Glossary.txt",
+                "content": " real problem affecting the entire country that everyone can help\nchange.\nThis document focuses on the experiences and treatment of individuals of Asian\ndescent living, working, and travelling in the U.S. For brevity, it will use the term “Asian\nAmerican” to refer to individuals of Asian descent in the U.S. regardless of citizenship.\nThis timeline of anti-Asian racism follows the evolution of yell",
+                "chunk_id": 24,
+                "start": 6000
+            }
+        },
+        {
+            "score": 0.8290909138153163,
+            "metadata": {
+                "document_name": "3. Anti-Hate Glossary.txt",
+                "content": "sian Americans, in\nparticular, may feel pressure to either embrace their cultural background or reject it and\nassimilate into white American society.\n\nDeviant\nGendered stereotypes present people of Asian descent as an aberrant threat. Harmful\ntropes objectify Asian women as submissive yet overly sexual. These images and ideas\nlead directly to racially motivated sexual violence against Asian women.",
+                "chunk_id": 40,
+                "start": 10000
+            }
+        },
+        {
+            "score": 0.8234129237934057,
+            "metadata": {
+                "document_name": "4. structural_racism_and_health_equity_language_guide.txt",
+                "content": "ties of color.\n\nCOVID-19 and anti-Asian racism\nDefinition: Asian American people endured a significant increase in racist attacks, both\nphysical and verbal, throughout the pandemic while prominent public figures have described\nthe coronavirus in racist terms. The scapegoating of Asian people during national crises is not\nnew, as this article recounts.\nUsage: Do not repeat racist, xenophobic terms ",
+                "chunk_id": 126,
+                "start": 31500
+            }
+        },
+        {
+            "score": 0.8193772382782165,
+            "metadata": {
+                "document_name": "3. Anti-Hate Glossary.txt",
+                "content": "ing the\nU.S.-China relationship and COVID-19 and increased violence against Asian Americans\nreveal a return to fear-based, anti-Asian hate.\n\n4\n\nCommittee of 100’s Glossary of Anti-Asian Terms and Tropes 2022\n\n\fVersions of yellow peril have shifted with political, economic, and societal changes,\ncharacterizing Asian Americans as immoral and dangerous in one instance and meek\nand robotic in another.",
+                "chunk_id": 29,
+                "start": 7250
+            }
+        },
+        {
+            "score": 0.8178718404348835,
+            "metadata": {
+                "document_name": "3. Anti-Hate Glossary.txt",
+                "content": "recently, the COVID-19 pandemic\nrenewed the perceived threat of Asian Americans.\nThe perpetual foreigner trope appears in many forms. It instills feelings of alienation and\nmanufactures divisions between Asian Americans and their fellow nationals. This type of\ndiscrimination causes mental and physical anguish and normalizes racist divisions and\nstereotypes. Some Asian Americans internalize this ra",
+                "chunk_id": 38,
+                "start": 9500
+            }
+        },
+        {
+            "score": 0.8157104197423193,
+            "metadata": {
+                "document_name": "3. Anti-Hate Glossary.txt",
+                "content": "often appear innocent, they leave many\nAsian Americans unsure how to react. It is particularly important to recognize these\nmicroaggressions to ultimately deconstruct Asian stereotypes.\nThis glossary is intended to serve as a guide to help conscientious communicators spot\nand eliminate racist language and imagery. It is not exhaustive. It provides examples\nthat demonstrate where and how problemati",
+                "chunk_id": 33,
+                "start": 8250
+            }
+        },
+        {
+            "score": 0.8157023504543872,
+            "metadata": {
+                "document_name": "3. Anti-Hate Glossary.txt",
+                "content": " erase\nindividuality, obscure racism, and dehumanize Asians. They treat Asian Americans as\na monolith whose perceived success in the U.S. disproves the existence of anti-Asian\nracism. These stereotypes overlook the wide range of Asian experiences in the U.S.\nOn a practical level, the model minority myth can prevent Asian children from receiving\nnecessary help and individual attention from teachers",
+                "chunk_id": 71,
+                "start": 17750
+            }
+        },
+        {
+            "score": 0.8156916632113382,
+            "metadata": {
+                "document_name": "3. Anti-Hate Glossary.txt",
+                "content": "th political, economic, and societal changes,\ncharacterizing Asian Americans as immoral and dangerous in one instance and meek\nand robotic in another. To reflect these variations, this glossary divides terms into three\nmajor subcategories: perpetual foreigner, deviant, and model minority. Each term is\ntagged with one or more of these subcategories or with “other.” Because the terms and\ntropes all ",
+                "chunk_id": 30,
+                "start": 7500
+            }
+        },
+        {
+            "score": 0.8154923669806229,
+            "metadata": {
+                "document_name": "3. Anti-Hate Glossary.txt",
+                "content": "ver, by questioning a person’s\norigin or searching for a specific answer, these seemingly innocent questions imply that\nAsian Americans are inherently foreign, and they perpetuate race-based ideas about\nAmerican identity. The accumulation of these and other microaggressions instills feelings\nof alienation while promoting the “perpetual foreigner” trope that bars Asian people\nfrom full participatio",
+                "chunk_id": 87,
+                "start": 21750
+            }
+        }
+    ]
+}

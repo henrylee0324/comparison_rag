@@ -1,0 +1,95 @@
+{
+    "query": "For suspects and criminals: What kinds of motives were described for suspects and criminals who committed anti-Asian racism or crimes? Was the motive triggered by anti-Asian sentiments or not?",
+    "chunks": [
+        {
+            "score": 0.8305113431364206,
+            "metadata": {
+                "document_name": "4. structural_racism_and_health_equity_language_guide.txt",
+                "content": "ties of color.\n\nCOVID-19 and anti-Asian racism\nDefinition: Asian American people endured a significant increase in racist attacks, both\nphysical and verbal, throughout the pandemic while prominent public figures have described\nthe coronavirus in racist terms. The scapegoating of Asian people during national crises is not\nnew, as this article recounts.\nUsage: Do not repeat racist, xenophobic terms ",
+                "chunk_id": 126,
+                "start": 31500
+            }
+        },
+        {
+            "score": 0.8261063222471978,
+            "metadata": {
+                "document_name": "3. Anti-Hate Glossary.txt",
+                "content": "is type of\ndiscrimination causes mental and physical anguish and normalizes racist divisions and\nstereotypes. Some Asian Americans internalize this racial hierarchy and alter their selfperception to conform with the perpetual foreigner trope. Young Asian Americans, in\nparticular, may feel pressure to either embrace their cultural background or reject it and\nassimilate into white American society.\n",
+                "chunk_id": 39,
+                "start": 9750
+            }
+        },
+        {
+            "score": 0.8259930719791699,
+            "metadata": {
+                "document_name": "3. Anti-Hate Glossary.txt",
+                "content": "and tropes. The rhetoric surrounding the origins of the\nCOVID-19 virus fueled a surge of discrimination and hate targeting individuals of Asian\ndescent, but these attitudes are not new. Racism is not unique to the U.S. or Asian\nAmericans, but it is a real problem affecting the entire country that everyone can help\nchange.\nThis document focuses on the experiences and treatment of individuals of Asi",
+                "chunk_id": 23,
+                "start": 5750
+            }
+        },
+        {
+            "score": 0.8244498137320238,
+            "metadata": {
+                "document_name": "3. Anti-Hate Glossary.txt",
+                "content": "and anger based on the perceived threat of Asian workers to\nAmerican jobs and wages has a long history in the U.S. Dating back to the first wave\nof Chinese immigrants in the 19th century and resurging in the 1980s auto industry,\nthis xenophobia otherizes Asian Americans, promotes the “perpetual foreigner” trope,\nand may even promote violent discrimination. The murder of Vincent Chin, a Chinese\n\nCo",
+                "chunk_id": 119,
+                "start": 29750
+            }
+        },
+        {
+            "score": 0.8239017696591924,
+            "metadata": {
+                "document_name": "3. Anti-Hate Glossary.txt",
+                "content": "rity groups because\nof their “pull-yourselves-up-by-your-bootstraps” immigrant mentality. These stereotypes\ndeveloped in the period following World War II and into the 1960s to push back against\nthe Civil Rights Movement. African Americans were organizing and protesting the\nwidespread structural racism in the U.S., and opponents of the Civil Rights Movement\nportrayed Asian Americans as a model of ",
+                "chunk_id": 47,
+                "start": 11750
+            }
+        },
+        {
+            "score": 0.8231710596844368,
+            "metadata": {
+                "document_name": "3. Anti-Hate Glossary.txt",
+                "content": "sian Americans, in\nparticular, may feel pressure to either embrace their cultural background or reject it and\nassimilate into white American society.\n\nDeviant\nGendered stereotypes present people of Asian descent as an aberrant threat. Harmful\ntropes objectify Asian women as submissive yet overly sexual. These images and ideas\nlead directly to racially motivated sexual violence against Asian women.",
+                "chunk_id": 40,
+                "start": 10000
+            }
+        },
+        {
+            "score": 0.8222951707476525,
+            "metadata": {
+                "document_name": "3. Anti-Hate Glossary.txt",
+                "content": "ing the\nU.S.-China relationship and COVID-19 and increased violence against Asian Americans\nreveal a return to fear-based, anti-Asian hate.\n\n4\n\nCommittee of 100’s Glossary of Anti-Asian Terms and Tropes 2022\n\n\fVersions of yellow peril have shifted with political, economic, and societal changes,\ncharacterizing Asian Americans as immoral and dangerous in one instance and meek\nand robotic in another.",
+                "chunk_id": 29,
+                "start": 7250
+            }
+        },
+        {
+            "score": 0.8216612434207226,
+            "metadata": {
+                "document_name": "3. Anti-Hate Glossary.txt",
+                "content": "lineage.\nThe intersection of racism and misogyny present in stereotypes of Asian American\nwomen make them particularly dangerous. Women and girls of Asian descent report\nmore than twice as many hate incidents as their male counterparts.\nNevertheless, Asian men are not immune to gendered racism. Historically, film and\ntelevision depicted Asian men as villains or desexualized and effeminate secondar",
+                "chunk_id": 44,
+                "start": 11000
+            }
+        },
+        {
+            "score": 0.8213863053306854,
+            "metadata": {
+                "document_name": "3. Anti-Hate Glossary.txt",
+                "content": "ican” to refer to individuals of Asian descent in the U.S. regardless of citizenship.\nThis timeline of anti-Asian racism follows the evolution of yellow peril, the idea that\nindividuals of Chinese or broader Asian descent are inherently threatening. The concept\noriginated with the 19th century Chinese laborers whom white Americans feared\nwould lower wages and take jobs. These fears morphed into th",
+                "chunk_id": 25,
+                "start": 6250
+            }
+        },
+        {
+            "score": 0.8208054151351274,
+            "metadata": {
+                "document_name": "3. Anti-Hate Glossary.txt",
+                "content": "  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 29\n\nCommittee of 100’s Glossary of Anti-Asian Terms and Tropes 2022\n\n3\n\n\fIntroduction\nRacism toward people of Asian heritage in the United States manifests itself in a\nwide range of words, actions, and tropes. The rhetoric surrounding the origins of the\nCOVID-19 virus fueled a surge of discrimination and hate targeting individuals of Asian\ndescen",
+                "chunk_id": 22,
+                "start": 5500
+            }
+        }
+    ]
+}
