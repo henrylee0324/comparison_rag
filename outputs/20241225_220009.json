@@ -1,0 +1,96 @@
+{
+    "query": "For organizations (i.e., law enforcement agencies, government officials, and NGO groups): What kinds of feelings or reactions towards the anti-Asian incidents were described in the mainstream and non-mainstream media for them?",
+    "response": "The feelings and reactions towards anti-Asian incidents as described in both mainstream and non-mainstream media include a strong sense of urgency and concern over the rising hate crimes against Asian Americans. For instance, many media outlets have spotlighted the issue, emphasizing the importance of civil rights enforcement and violence prevention, reflecting the call from organizations like the Asian American Leaders Table. \n\nThere is a recognition that these incidents cause widespread discomfort and fear within Asian communities, prompting individuals to seek solutions against harmful narratives. The media also critiques how public figures and politicians can influence racial equality, highlighting the dismay in seeing state officials contributing to anti-Asian sentiment.\n\nFurthermore, reports suggest that responses include advocating for greater awareness and visibility of the incidents, as there are claims that media coverage has been inadequate compared to the volume of incidents reported on social media. Finally, there are calls from various organizations for solidarity among different communities of color in addressing this collective struggle against racism and hate crimes.\n\nOverall, there is a mix of alarm, advocacy, and a push for accountability among organizations in response to anti-Asian incidents, reflecting broader concerns about racial equality and social justice.",
+    "chunks": [
+        {
+            "score": 0.8628906684091955,
+            "metadata": {
+                "document_name": "509.txt",
+                "content": "e mainstream media has finally put a spotlight on the rise of anti-Asian hate crimes. The Asian American Leaders Table has called on the federal government to ensure robust enforcement of civil rights laws, and to prioritize violence prevention and restorative justice. Strikingly, they understand that all communities of color struggle in the face of racism and hate crimes. \nThey call on Congress t",
+                "chunk_id": 15,
+                "start": 3750
+            }
+        },
+        {
+            "score": 0.858990606874303,
+            "metadata": {
+                "document_name": "346.txt",
+                "content": "9.\nAfter initial shock, people look for scapegoats\nWhile a social media campaign can't stop violence on its own, Duncan Hwang of the Asian Pacific American Network of Oregon told DW it is important to push back against harmful narratives and highlight the challenges and experiences Asian-Americans are experiencing.\n   \"Those incidents really shake people and make them feel uncomfortable to go out.",
+                "chunk_id": 15,
+                "start": 3750
+            }
+        },
+        {
+            "score": 0.8570631357373679,
+            "metadata": {
+                "document_name": "396.txt",
+                "content": "Americans.\nThe attacks and smear campaign launched against China by some American politicians have ignited anti-Asian sentiment,\naccording to an article published by the British Broadcasting Corporation (BBC).\n“Yet public figures and politicians play a key role in promoting racial equality and non-discrimination principles. In this\nregards, it is dismaying to witness State officials adopting alter",
+                "chunk_id": 11,
+                "start": 2750
+            }
+        },
+        {
+            "score": 0.855870007830168,
+            "metadata": {
+                "document_name": "109.txt",
+                "content": "still in a mythical and debated stage. Anti-Asian Crimes and xenophobic sentiments aren’t just a recent phenomenon but we find this rooted in American civil rights history, remember 1871 Chinese Massacre and 1882 Chinese Exclusion Act, Japanese internment camp in WWII, and Vincent Chin are a few examples in history.\nI am outspoken but my wife is private and reserved. Even if a reporter approached ",
+                "chunk_id": 16,
+                "start": 4000
+            }
+        },
+        {
+            "score": 0.8555849414733054,
+            "metadata": {
+                "document_name": "161.txt",
+                "content": "VID-19 cases that were reported in the United States. Media critique organization 'FAIR' has documented instances of anti-Asian racism on the street, and states that many US (as well as UK) media outlets capitalize on Sinophobia and \"Orientalist tropes\" that the Chinese are inherently sneaky and untrustworthy, and are ruled by an incompetent, authoritarian government that is the 'sick man of Asia'",
+                "chunk_id": 27,
+                "start": 6750
+            }
+        },
+        {
+            "score": 0.8518564954838842,
+            "metadata": {
+                "document_name": "173.txt",
+                "content": "and from ordinary people who are scared and uninformed. The media does not cover nearly enough of the assaults, harassment and abuse towards Asians. I see more about this racism on social media than I do on the actual news, which goes to show how lacking the media is in the coverage of Asians. Why do Asians today have to tolerate the inexcusable hate crimes done against us? It just seems like the ",
+                "chunk_id": 13,
+                "start": 3250
+            }
+        },
+        {
+            "score": 0.8507669891139991,
+            "metadata": {
+                "document_name": "448.txt",
+                "content": "ise in anti-Asian harassment incidents reported to police in 2020. In particular, East Asian Americans or anyone who appeared to be of East Asian heritage or descent became targets for the misplaced anger of people blaming Chinese people or those they thought looked Chinese, even if they were of other ethnic backgrounds, like Japanese, Taiwanese, Korean, Burmese, Thai or Filipino. \nA fear of disea",
+                "chunk_id": 9,
+                "start": 2250
+            }
+        },
+        {
+            "score": 0.8503887390389395,
+            "metadata": {
+                "document_name": "309.txt",
+                "content": "ans – and 81 per cent of Australians – have an unfavourable view of China. This offers a clue to why there\nhas been a recent surge of anti-Asian racist hate crimes. That Thais, Japanese and even Koreans have found themselves the target of anti-Chinese sentiment points to another\nunfortunate racial issue that we Asians encounter in Western countries. Many Westerners cannot distinguish between, say,",
+                "chunk_id": 9,
+                "start": 2250
+            }
+        },
+        {
+            "score": 0.8497985491881503,
+            "metadata": {
+                "document_name": "464.txt",
+                "content": "e become more common across social media. \nThe Global Times found some hateful remarks against Asians, or comments that contain undertones of prejudice or stereotypes on Twitter. They attack the Chinese government and people under the guise of \"protecting the human rights\" of other ethnicities. \nThe ADL released a survey last month that showed \"severe\" harassment such as \"stalking, physical threat",
+                "chunk_id": 31,
+                "start": 7750
+            }
+        },
+        {
+            "score": 0.849789048594276,
+            "metadata": {
+                "document_name": "509.txt",
+                "content": "racism and face a growing threat of violence. Now is the time to confront this plague. The murders in North Georgia have sparked vigils across the country. Civil rights organizations, African American and Latino groups have rallied in solidarity. \nThe mainstream media has finally put a spotlight on the rise of anti-Asian hate crimes. The Asian American Leaders Table has called on the federal gover",
+                "chunk_id": 14,
+                "start": 3500
+            }
+        }
+    ]
+}

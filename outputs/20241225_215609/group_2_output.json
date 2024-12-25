@@ -1,0 +1,96 @@
+{
+    "query": "For other individuals (e.g., celebrities, professionals, politicians, and general public): What kinds of feelings or reactions towards the anti-Asian incidents were described in the mainstream and non-mainstream media for them?",
+    "response": "Mainstream and non-mainstream media have documented a range of feelings and reactions from various individuals, including celebrities, professionals, politicians, and the general public regarding anti-Asian incidents. Here are some key sentiments reported:\n\n1. **Fear and Vulnerability**: Many individuals expressed feelings of fear and vulnerability, particularly members of the Asian American community. This has been highlighted in narratives that discuss how incidents of violence and harassment impact anxiety levels and comfort in public spaces. For instance, an Asian Pacific American representative noted the discomfort individuals feel when going out due to rising violence.\n\n2. **Anger and Frustration**: Public reactions have also included anger, particularly directed at the scapegoating and racist narratives perpetuated by some political figures. Many have criticized the media for its inadequate coverage of anti-Asian hate crimes, leading to feelings of frustration that these incidents are not adequately acknowledged or addressed.\n\n3. **Solidarity and Advocacy**: There has been a significant call for solidarity among various communities. Some social media campaigns and movements have aimed to push back against harmful narratives and to highlight the experiences of Asian Americans. Advocacy efforts to promote awareness and bring attention to these issues were noted in various discussions, emphasizing the importance of collective action.\n\n4. **Disappointment in Media Representation**: Individuals have reacted with disappointment regarding how the media has historically represented Asian Americans. Many pointed out that media narratives often involve stereotypes and do not adequately reflect the diversity of experiences within the community, leading to further marginalization.\n\n5. **Personal Reflections**: Some individuals, particularly youth, have shared personal reflections on how anti-Asian hate has affected their self-perception and identity. For instance, interviews with Asian American teenagers revealed concerns about acceptance and the pressures they face in balancing cultural identity against societal expectations.\n\n6. **Historical Context**: The discussion around anti-Asian sentiment often reflects on historical discrimination, such as the Chinese Exclusion Act and Japanese internment camps. This historical framing has resulted in both a sense of continuity of these issues and a call to action to combat ongoing racism.\n\nOverall, the reactions range from a vulnerability in the face of violence to advocacy for change, illustrating a complex emotional landscape surrounding anti-Asian incidents in society.",
+    "chunks": [
+        {
+            "score": 0.865156921045535,
+            "metadata": {
+                "document_name": "396.txt",
+                "content": "Americans.\nThe attacks and smear campaign launched against China by some American politicians have ignited anti-Asian sentiment,\naccording to an article published by the British Broadcasting Corporation (BBC).\n“Yet public figures and politicians play a key role in promoting racial equality and non-discrimination principles. In this\nregards, it is dismaying to witness State officials adopting alter",
+                "chunk_id": 11,
+                "start": 2750
+            }
+        },
+        {
+            "score": 0.8619063839094527,
+            "metadata": {
+                "document_name": "173.txt",
+                "content": "and from ordinary people who are scared and uninformed. The media does not cover nearly enough of the assaults, harassment and abuse towards Asians. I see more about this racism on social media than I do on the actual news, which goes to show how lacking the media is in the coverage of Asians. Why do Asians today have to tolerate the inexcusable hate crimes done against us? It just seems like the ",
+                "chunk_id": 13,
+                "start": 3250
+            }
+        },
+        {
+            "score": 0.8608300823547169,
+            "metadata": {
+                "document_name": "346.txt",
+                "content": "9.\nAfter initial shock, people look for scapegoats\nWhile a social media campaign can't stop violence on its own, Duncan Hwang of the Asian Pacific American Network of Oregon told DW it is important to push back against harmful narratives and highlight the challenges and experiences Asian-Americans are experiencing.\n   \"Those incidents really shake people and make them feel uncomfortable to go out.",
+                "chunk_id": 15,
+                "start": 3750
+            }
+        },
+        {
+            "score": 0.860200399059629,
+            "metadata": {
+                "document_name": "109.txt",
+                "content": "still in a mythical and debated stage. Anti-Asian Crimes and xenophobic sentiments aren’t just a recent phenomenon but we find this rooted in American civil rights history, remember 1871 Chinese Massacre and 1882 Chinese Exclusion Act, Japanese internment camp in WWII, and Vincent Chin are a few examples in history.\nI am outspoken but my wife is private and reserved. Even if a reporter approached ",
+                "chunk_id": 16,
+                "start": 4000
+            }
+        },
+        {
+            "score": 0.8577929954305892,
+            "metadata": {
+                "document_name": "100.txt",
+                "content": "hinking and feeling on a deeper level.\nTo gain better perspective, AsAmNews interviewed nine Asian American teenagers from across the country to get them to talk frankly about the surge of anti-Asian attacks, how it has personally affected them, and what they believe can be done to help stop Asian hate.\nGregory Lee, age 15\nPublic School Student, Menlo Park, CA.\n“The anti-Asian hate attacks are qui",
+                "chunk_id": 2,
+                "start": 500
+            }
+        },
+        {
+            "score": 0.8561914787108581,
+            "metadata": {
+                "document_name": "41.txt",
+                "content": "rienced verbal abuse, but I did not have it as bad as some other people.” That's when the conversation usually ended.\nWell-meaning people still made comments about Asian Americans being the model minority. My journalism professors did not always understand the ways people of color have been historically underrepresented and misrepresented in the media. And people still asked me where I was really ",
+                "chunk_id": 20,
+                "start": 5000
+            }
+        },
+        {
+            "score": 0.8542346446460929,
+            "metadata": {
+                "document_name": "464.txt",
+                "content": " ethnicity, according to a Morning Consult poll conducted from March 24 to 30 toward 1,000 Asian adults living in the US, which was released on Thursday. Data shows a surge in online harassment and racist posts targeting Asians following a prevalence of racially insensitive hashtags on social media. \nIn an era of globalized information explosion, social networking platforms have become a tool for ",
+                "chunk_id": 3,
+                "start": 750
+            }
+        },
+        {
+            "score": 0.8539346213983443,
+            "metadata": {
+                "document_name": "309.txt",
+                "content": "ans – and 81 per cent of Australians – have an unfavourable view of China. This offers a clue to why there\nhas been a recent surge of anti-Asian racist hate crimes. That Thais, Japanese and even Koreans have found themselves the target of anti-Chinese sentiment points to another\nunfortunate racial issue that we Asians encounter in Western countries. Many Westerners cannot distinguish between, say,",
+                "chunk_id": 9,
+                "start": 2250
+            }
+        },
+        {
+            "score": 0.8513911491773452,
+            "metadata": {
+                "document_name": "464.txt",
+                "content": "e become more common across social media. \nThe Global Times found some hateful remarks against Asians, or comments that contain undertones of prejudice or stereotypes on Twitter. They attack the Chinese government and people under the guise of \"protecting the human rights\" of other ethnicities. \nThe ADL released a survey last month that showed \"severe\" harassment such as \"stalking, physical threat",
+                "chunk_id": 31,
+                "start": 7750
+            }
+        },
+        {
+            "score": 0.8510388200852441,
+            "metadata": {
+                "document_name": "161.txt",
+                "content": "VID-19 cases that were reported in the United States. Media critique organization 'FAIR' has documented instances of anti-Asian racism on the street, and states that many US (as well as UK) media outlets capitalize on Sinophobia and \"Orientalist tropes\" that the Chinese are inherently sneaky and untrustworthy, and are ruled by an incompetent, authoritarian government that is the 'sick man of Asia'",
+                "chunk_id": 27,
+                "start": 6750
+            }
+        }
+    ]
+}

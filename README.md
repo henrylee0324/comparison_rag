@@ -179,8 +179,3 @@ project/
 3. Enhance error logging and monitoring.
 4. Parameterize configurations via YAML or JSON for flexibility.
 
-## License
-This project is licensed under the MIT License. See `LICENSE` for more information.
-
-## Contact
-For questions or suggestions, please contact [Your Name] at [your.email@example.com].

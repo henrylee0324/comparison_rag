@@ -302,4 +302,4 @@ class Rag:
     
 if __name__ == "__main__":
     rag = Rag()
-    rag.query_with_group_and_glossary("Types of racism being reported.", "20241126_165421.json")
+    rag.query_with_group_and_glossary(" Impacts of anti-Asian racism on Asian Americans; examples of impacted realms include economic, behavioral, psychological, and social areas.", "20241225_211937.json")

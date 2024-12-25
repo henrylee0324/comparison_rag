@@ -1,0 +1,96 @@
+{
+    "query": "Types of racism being reported.",
+    "response": "The types of racism being reported include:\n\n1. **Verbal Harassment**: This is the most prevalent form of racism reported, constituting around 68.1% of incidents, which includes hateful words or slurs directed at individuals.\n\n2. **Shunning**: This involves the deliberate avoidance of Asian Americans, accounting for about 20.5% of the incidents reported.\n\n3. **Physical Assaults**: These incidents make up about 13% of the reports, involving physical attacks on individuals.\n\n4. **Civil Rights Violations**: This category includes workplace discrimination and being refused service at businesses, which was noted in 10% of the reports.\n\n5. **Online Harassment**: Approximately 7% of incidents involved harassment that occurred in online contexts.\n\nAdditionally, there are reports of other forms of discrimination, including vandalism and denial of access to public services or spaces. The overall trend indicates that racism against Asian Americans is systemic and pervasive in various forms.",
+    "chunks": [
+        {
+            "score": 0.8483211094810128,
+            "metadata": {
+                "document_name": "457.txt",
+                "content": "top AAPI Hate, which found over 3,700 reported incidents to the group from March 2020 to Feb. 28 of this year. According to the report's findings, the two largest types of discrimination reported were verbal harassment, at 68.1% and shunning, or the deliberate avoidance of Asian Americans, was found at 20.5% of the reports. \n\"We have to stop this type of violence, we have to stop this type of raci",
+                "chunk_id": 5,
+                "start": 1250
+            }
+        },
+        {
+            "score": 0.8353610085601948,
+            "metadata": {
+                "document_name": "583.txt",
+                "content": "ing Asian Americans and 13% were physical assaults. \nCivil rights violations such as workplace discrimination and being refused service at a business were 10%. Online harassment was 7%. \nOn its website, the group accepts reports in 10 Asian languages, including Chinese, Vietnamese, Korean and Tagalog, in addition to English. \n\"Racism against Asian Americans is systemic and long-standing,\" said Rus",
+                "chunk_id": 11,
+                "start": 2750
+            }
+        },
+        {
+            "score": 0.8352453537466318,
+            "metadata": {
+                "document_name": "126.txt",
+                "content": "ynh said. Obstacles to filing reports include fear of retaliation and victims not believing that will make a difference, she said.\nNationally, more than 3,800 incidents of racism and xenophobia against Asians and Pacific Islanders were recorded between March 2020 and February by Stop AAPI Hate, a San Francisco-based reporting center.\nThe majority of discrimination reported involved verbal harassme",
+                "chunk_id": 22,
+                "start": 5500
+            }
+        },
+        {
+            "score": 0.8350684139097663,
+            "metadata": {
+                "document_name": "372.txt",
+                "content": "rming level\" in the United States, according to an August report by the United Nations. More than 1,800 racist incidents against Asian Americans were reported from March to May. \nThe attacks included physical assaults, vandalism, verbal harassment, denial of access to services and public spaces, the report said. Victims also reported being spat on, blocked from public transportation, discriminated",
+                "chunk_id": 6,
+                "start": 1500
+            }
+        },
+        {
+            "score": 0.8348537591158185,
+            "metadata": {
+                "document_name": "377.txt",
+                "content": "m as \"widespread, institutionalized and systemic.\" Recent reports from the coalition have analyzed the impact of racism on different Asian American ethnicities, on women and girls and on mental health. \nBrian Levin, who directs the Center for the Study of Hate & Extremism at California State University, San Bernardino, said Stop AAPI Hate's findings line up with his own research, which focuses on ",
+                "chunk_id": 19,
+                "start": 4750
+            }
+        },
+        {
+            "score": 0.8343973298580557,
+            "metadata": {
+                "document_name": "583.txt",
+                "content": "me. \nThe Stop AAPI Hate study includes both types of situations. Nearly two-thirds of the more than 6,600 anti-Asian incidents reported from last March to this March involved verbal harassment. About 18% involved shunning -- people deliberately avoiding Asian Americans and 13% were physical assaults. \nCivil rights violations such as workplace discrimination and being refused service at a business ",
+                "chunk_id": 10,
+                "start": 2500
+            }
+        },
+        {
+            "score": 0.8343156972703492,
+            "metadata": {
+                "document_name": "53.txt",
+                "content": "eported cases, according to the Boston Police Department. That compares to 16 reports of hate crimes against Black people and one against a Hispanic person this year. \nAnti-Asian hate has been surging as some people, looking for a scapegoat or blinded by bigotry, blame COVID-19 on China. Elderly Asian Americans, in particular, feel under attack after a spate of incidents in New York and Califomia ",
+                "chunk_id": 11,
+                "start": 2750
+            }
+        },
+        {
+            "score": 0.8332344707401468,
+            "metadata": {
+                "document_name": "296.txt",
+                "content": "ng prejudice, an add-on charge that increases penalties for crimes\ncommitted against minority groups.\nNationally, a little less than half of Asian respondents to the FSU survey indicated they knew someone personally\nwho had been a victim of a hate crime.\nThe most common type of discrimination faced was verbal insults. Those incidents often go untracked since there\nisnt a crime to report, and Stop ",
+                "chunk_id": 16,
+                "start": 4000
+            }
+        },
+        {
+            "score": 0.8326183800685328,
+            "metadata": {
+                "document_name": "469.txt",
+                "content": "rime reporting. But the fact remains that 90% of the incidents reported to us are not hate crimes because no underlying crime was committed. Many are civil rights violations involving discrimination in the workplace, restaurants and retail venues and can be prosecuted in civil court. \nMultiple solutions are needed \nRacism against Asian Americans is longstanding and complex, and requires a comprehe",
+                "chunk_id": 16,
+                "start": 4000
+            }
+        },
+        {
+            "score": 0.8320874508286589,
+            "metadata": {
+                "document_name": "296.txt",
+                "content": "ime.\nThe most common type of discrimination faced was verbal insults. Those incidents often go untracked since there\nisnt a crime to report, and Stop AAPI Hate does not have statistics for Tampa Bay specifically. But some locals\nhave stories about the past year.\nA man stepped out of the shadows and blocked the sidewalk in front of two Asian American women walking near\nSt. Petersburgs downtown wate",
+                "chunk_id": 17,
+                "start": 4250
+            }
+        }
+    ]
+}
